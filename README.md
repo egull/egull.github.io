@@ -5,9 +5,14 @@ The Gull group will maintain an affiliation with the [University of Michigan](ht
 
 # Available positions
 ## Postdoc positions
-Postdocs are required to have a PhD at the time of their employment. PhD areas include condensed matter theory, applied mathematics, quantum chemistry, and/or high-performance computing. Experience with modern analytic or numerical methods in quantum theory is desired. Experience with numerical methods in physics and a solid foundation in code development is especially welcome.
+Postdocs are required to have a PhD at the time of their employment. Areas include computational and/or analytical condensed matter theory, applied mathematics, quantum chemistry, and/or high-performance computing. Experience with modern analytic or numerical methods in quantum theory is desired. Experience with numerical methods in physics and a solid foundation in code development is especially welcome.
 
 Interested parties should contact emanuel.gull@gmail.com for information.
+
+To apply, send your application including a cover letter, curriculum vitae, list of publications, statement of re​‐
+search interests, and the three most rele​vant publi​cations in a single PDF file. Please also have two reference letters sent to this email.
+
+For full consideration please ensure that all materials are **submitted by March 25, 2025**. Evaluations will continue on a rolling basis until all positions are filled. 
 
 ## PhD positions
 Several positions for PhD candidates are available. Candidates are encouraged to contact emanuel.gull@gmail.com for information.
