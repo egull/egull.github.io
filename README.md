@@ -1,6 +1,6 @@
 # Gull group at the University of Warsaw
 
-As of summer 2025, the Gull group will have openings at the Physics Department of the University of Warsaw as a part of the ERC Advanced grant Quantum Algorithms. Openings are available for postdocs, PhD students, and master students on research topics in condensed matter theory and high-performance computing, including the development of field-theoretic methods for realistic correlated electron systems and their application to systems of interest. A wide range of topics is available. Previous work (see below) provides a general overview of the research areas.
+As of summer 2025, the Gull group will have openings at the Physics Department of the University of Warsaw as a part of the ERC Advanced grant Quantum Algorithms. **Openings are available for postdocs, PhD students, and master students** on research topics in condensed matter theory and high-performance computing, including the development of field-theoretic methods for realistic correlated electron systems and their application to systems of interest. A wide range of topics is available. Previous work (see below) provides a general overview of the research areas.
 
 # Available positions
 ## Postdoc positions
