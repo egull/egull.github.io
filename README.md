@@ -15,6 +15,8 @@ Several positions for PhD candidates are available. Candidates are encouraged to
 Several positions for master theses for students currently enrolled at the University of Warsaw are available. Candidates are encouraged to contact emanuel.gull@gmail.com for information.
 
 # Related Work and References
+Note that this subset of relevant publications is quickly outdated. For a more recent list of published work and preprints see the [Google Scholar](https://scholar.google.com/citations?user=Ow86MM0AAAAJ&hl=en) profile.
+
 ## Realistic Theoretically Rigorous Electronic Structure Methods
 1. [Symmetry adaptation for self-consistent many-body calculations](https://www.sciencedirect.com/science/article/pii/S0010465524003242)
 2. [Equivariant neural network for Green's functions of molecules and materials](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.075112)
