@@ -20,6 +20,8 @@ The most useful commands are:
  status all
  status schedule
  mount / umount
+ label barcodes pool=TapesWeakly
+ enable schedule=WeeklyCycleInc
 ```
 
 
