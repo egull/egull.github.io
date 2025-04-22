@@ -1,5 +1,13 @@
 # Pauli documentation and maintenance info
 
+## Security updates
+Run the security updates as follows:
+
+```
+yum updateinfo list security
+yum update --security
+```   
+
 ## Backup information
 
 We use [bacula](https://www.bacula.org/) for backups. The configuration file is in
