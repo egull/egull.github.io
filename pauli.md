@@ -1,5 +1,9 @@
 # Pauli documentation and maintenance info
 
+
+## Package installation
+Have a look at /root/build/build_all/gcc_scripts
+
 ## Security updates
 Run the security updates as follows:
 
