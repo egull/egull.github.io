@@ -2,7 +2,19 @@
 
 
 ## Package installation
-Have a look at /root/build/build_all/gcc_scripts
+For some packages we have prebuilt compilation / installation scripts. Have a look at 
+
+```
+/root/builds/build-all/script_gcc/
+```
+but most are built by hand and installed into directories under
+```
+/opt/ohpc/pub/
+```
+After installation, a module file needs to be created. Our module files are in
+```
+/opt/ohpc/pub/modulefiles/
+```
 
 ## Security updates
 Run the security updates as follows:
