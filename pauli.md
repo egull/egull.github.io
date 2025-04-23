@@ -2,8 +2,7 @@
 
 
 ## Package installation
-For some packages we have prebuilt compilation / installation scripts. Have a look at 
-
+When configuring packages, ensure that the compilers are system compilers or that there's an explicit dependence in the resulting module file. For some packages we have prebuilt compilation / installation scripts. Have a look at 
 ```
 /root/builds/build-all/script_gcc/
 ```
