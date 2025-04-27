@@ -11,7 +11,7 @@ Interested parties should contact emanuel.gull@gmail.com for information.
 To apply, send your application including a cover letter, curriculum vitae, list of publications, statement of re​‐
 search interests, and the three most rele​vant publi​cations in a single PDF file. Please also have two reference letters sent to this email.
 
-For full consideration please ensure that all materials are **submitted by April 25, 2025**. Evaluations will continue on a rolling basis until all positions are filled. 
+For full consideration please ensure that all materials are **submitted by May 25, 2025**. Evaluations will continue on a rolling basis until all positions are filled. 
 
 ## PhD positions
 Several positions for PhD candidates are available. Candidates are encouraged to contact emanuel.gull@gmail.com for information.
