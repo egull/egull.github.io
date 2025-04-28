@@ -64,3 +64,8 @@ Please use the "label" command to create a new Volume for:
 ```
 
 Recent command history is stored in `.bconsole_history`.
+
+
+## Node reboot and IPMI
+Pauli has an IPMI network for the node. That's the 192.168.1.1XX network. Node 19, for instance, is at 192.168.1.119.
+IPMI on these nodes can only be reached from the master. IMPI does require a password, which is stored in `/root/sec_data/` along with other secure data.
