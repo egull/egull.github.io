@@ -3,7 +3,7 @@ plugins:
  - jekyll-remote-theme
 
 titles_from_headings:
-  enabled:     true
+  enabled:     false
   strip_title: true
   collections: true 
 google_analytics: G-5VZDLTCMDW
