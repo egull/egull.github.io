@@ -38,6 +38,8 @@ The tape pools are defined in
 
   `/etc/bacula/pools.conf`
 
+## Warewulf admin info
+Some additional info is here: `https://green-phys.org/pauli/`
 `bconsole` starts the backup tape console information.
 
 The most useful commands are:
