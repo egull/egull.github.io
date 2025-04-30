@@ -11,7 +11,23 @@ Interested parties should contact emanuel.gull@gmail.com for information.
 To apply, send your application including a cover letter, curriculum vitae, list of publications, statement of re​‐
 search interests, and the three most rele​vant publi​cations in a single PDF file. Please also have two reference letters sent to this email.
 
-For full consideration please ensure that all materials are **submitted by May 25, 2025**. Evaluations will continue on a rolling basis until all positions are filled. 
+For full consideration please ensure that all materials are **submitted by May 29, 2025**. Evaluations will continue on a rolling basis until all positions are filled. 
+
+Note that postdoc positions will be advertized in a staggered fashion, one to two positions at a time. The official ads are now online at the following links:
+
+```
+Ministry Database
+https://bazaogloszen.nauka.gov.pl/?post_type=job_listing&p=535795&preview=true
+
+EURAXESS
+https://euraxess.ec.europa.eu/jobs/339704
+
+University of Warsaw Job Offers:
+https://konkursydlanauczycieli.uw.edu.pl/api/document/3316/datafile/pdf
+
+Faculty of Physics Job Offers:
+https://www.fuw.edu.pl/tl_files/praca/2025/2025-04-29_praca_adiunkt_badawczy_ift_wf_1210_43_2025_en_do_29_05_2025.pdf
+```
 
 ## PhD positions
 Several positions for PhD candidates are available. Candidates are encouraged to contact emanuel.gull@gmail.com for information.
