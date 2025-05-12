@@ -80,3 +80,9 @@ Sometimes, after security updates, the bootloader misbehaves and sets itself to 
   grubby --default-index
   grubby --set-default=/boot/vmlinuz-5.4.234-1.el8.elrepo.x86_64
 ```
+## Unsticking a node stuck in drain state
+If a node is stuck in drain state, but has otherwise recovered, it can be 'unstuck' with scontrol:
+```
+scontrol update NodeName=pauli18 State=DOWN Reason="undraining"
+scontrol update NodeName=pauli18 State=RESUME
+```
