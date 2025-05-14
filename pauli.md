@@ -74,3 +74,8 @@ If a node is stuck in drain state, but has otherwise recovered, it can be 'unstu
 scontrol update NodeName=pauli18 State=DOWN Reason="undraining"
 scontrol update NodeName=pauli18 State=RESUME
 ```
+## Changing the partition wall time
+If someone needs more time on a partition, update partition properties (like walltime) as
+```
+scontrol update partition=ludicrous MaxTime=4-00:00:00
+```
