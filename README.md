@@ -11,42 +11,33 @@ Interested parties should contact emanuel.gull@gmail.com for information.
 To apply, send your application including a cover letter, curriculum vitae, list of publications, statement of re​‐
 search interests, and the three most rele​vant publi​cations in a single PDF file. Please also have two reference letters sent to this email.
 
-For full consideration please ensure that all materials are **submitted by May 29, 2025**. Evaluations will continue on a rolling basis until all positions are filled. 
+For full consideration please ensure that all materials are **submitted by 5 Aug 2025**. Evaluations will continue on a rolling basis until all positions are filled. 
 
 Note that postdoc positions will be advertized in a staggered fashion, one to two positions at a time. The official ads are now online at the following links:
 
 ```
-Ministry Database
-https://bazaogloszen.nauka.gov.pl/?post_type=job_listing&p=535795&preview=true
-
 EURAXESS
-https://euraxess.ec.europa.eu/jobs/339704
-
-University of Warsaw Job Offers:
-https://konkursydlanauczycieli.uw.edu.pl/api/document/3316/datafile/pdf
-
-Faculty of Physics Job Offers:
-https://www.fuw.edu.pl/tl_files/praca/2025/2025-04-29_praca_adiunkt_badawczy_ift_wf_1210_43_2025_en_do_29_05_2025.pdf
+https://euraxess.ec.europa.eu/jobs/347874
 ```
 
 ## PhD positions
-Several positions for PhD candidates are available. Candidates are encouraged to contact emanuel.gull@gmail.com for information.
+Several positions for PhD candidates are available. Candidates are expected to apply to the Graduate School at the University of Warsaw. Please contact emanuel.gull@gmail.com for information.
 
 ## Master positions
-Several positions for master theses for students currently enrolled at the University of Warsaw are available. Candidates are encouraged to contact emanuel.gull@gmail.com for information.
+Several topics for master theses are available. Candidates are encouraged to contact emanuel.gull@gmail.com for information.
 
 # Related Work and References
 Note that this subset of relevant publications is quickly outdated. For a more recent list of published work and preprints see the [Google Scholar](https://scholar.google.com/citations?user=Ow86MM0AAAAJ&hl=en) profile.
+
+## Quantum Impurity Solvers
+1. [Tensor train continuous time solver for quantum impurity models](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.245135)
+2. [Continuous-time Monte Carlo methods for quantum impurity models](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.83.349)
 
 ## Realistic Theoretically Rigorous Electronic Structure Methods
 1. [Symmetry adaptation for self-consistent many-body calculations](https://www.sciencedirect.com/science/article/pii/S0010465524003242)
 2. [Equivariant neural network for Green's functions of molecules and materials](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.075112)
 3. [Fully self-consistent finite-temperature 𝐺⁡𝑊 in Gaussian Bloch orbitals for solids](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.235104)
 4. [Relativistic self-consistent 𝐺⁡𝑊: Exact two-component formalism with one-electron approximation for solids](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.085121)
-
-## Quantum Impurity Solvers
-1. [Tensor train continuous time solver for quantum impurity models](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.245135)
-2. [Continuous-time Monte Carlo methods for quantum impurity models](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.83.349)
 
 ## Mathematical Properties of Green's Functions and Numerical Algorithms
 1. [Minimal pole representation and analytic continuation of matrix-valued correlation functions](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.235131)
