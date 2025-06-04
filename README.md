@@ -13,7 +13,7 @@ search interests, and the three most rele​vant publi​cations in a single PDF
 
 For full consideration please ensure that all materials are **submitted by 5 Aug 2025**. Evaluations will continue on a rolling basis until all positions are filled. 
 
-Note that postdoc positions will be advertized in a staggered fashion, one to two positions at a time. The official ads are now online at the following links:
+Note that postdoc positions will be advertized in a staggered fashion, one to two positions at a time. The official ads are now online at the following link:
 
 ```
 EURAXESS
