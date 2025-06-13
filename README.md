@@ -13,7 +13,7 @@ search interests, and the three most rele​vant publi​cations in a single PDF
 
 For full consideration please ensure that all materials are **submitted by 5 Aug 2025**. Evaluations will continue on a rolling basis until all positions are filled. 
 
-Note that postdoc positions will be advertized in a staggered fashion, one to two positions at a time. The official ads are now online at the following link:
+Note that postdoc positions will be advertised in a staggered fashion, one to two positions at a time. The official ads are now online at the following link:
 
 ```
 EURAXESS
@@ -21,7 +21,7 @@ https://euraxess.ec.europa.eu/jobs/347874
 ```
 
 ## PhD positions
-Several positions for PhD candidates are available. Candidates are expected to apply to the Graduate School at the University of Warsaw. Please contact emanuel.gull@gmail.com for information.
+Several positions for PhD candidates are available. Candidates are expected to apply to the Graduate School at the University of Warsaw. Please contact emanuel.gull@gmail.com for information and help with the application procedure.
 
 ## Master positions
 Several topics for master theses are available. Candidates are encouraged to contact emanuel.gull@gmail.com for information.
