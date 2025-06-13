@@ -79,3 +79,6 @@ If someone needs more time on a partition, update partition properties (like wal
 ```
 scontrol update partition=ludicrous MaxTime=4-00:00:00
 ```
+
+## iommu and the GPU node
+It seems that the GPU direct memory access needed for direct file access from the GPU is incompatible with some of the iommu settings. The solution is to disable iommu in the bios of the machine. The master has iommu disabled, but the GPU node has it enabled by default.
