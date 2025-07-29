@@ -83,5 +83,12 @@ scontrol update partition=ludicrous MaxTime=4-00:00:00
 ## iommu and the GPU node
 It seems that the GPU direct memory access needed for direct file access from the GPU is incompatible with some of the iommu settings. The solution is to disable iommu in the bios of the machine. The master has iommu disabled, but the GPU node has it enabled by default.
 
+## time server
+The new time server ntpd is called chrony and polls its time from master, provided we specify
+```
+server 192.168.2.100 iburst
+```
+in the chrony config file at /etc/chrony.conf.
+
 ## updating and packaging the node image
 Our node images are managed by warewulf. We are currently running Rocky Linux release 8.7 (Green Obsidian), and the original images are located in /opt/ohpc/admin/images/. The warewulf version we run is ancient (unclear which one) but some configuration is in /etc/warewulf/.
