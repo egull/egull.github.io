@@ -93,3 +93,6 @@ in the chrony config file at /etc/chrony.conf.
 
 ## updating and packaging the node image
 Our node images are managed by warewulf. We are currently running Rocky Linux release 8.7 (Green Obsidian), and the original images are located in /opt/ohpc/admin/images/. The warewulf version we run is ancient (unclear which one) but some configuration is in /etc/warewulf/.
+
+##preventing overheating
+We used to set cpupower with the following trick: You can use the command cpupower frequency-set -g <governor_name> to switch to a different governor. Replace <governor_name> with the desired governor (e.g., performance, powersave, ondemand. We used powersave to keep the temperatures down. Likely this is no longer needed.
