@@ -66,8 +66,9 @@ Sometimes, after security updates, the bootloader misbehaves and sets itself to 
   ls -l /boot/vmlinuz-*
   grubby --default-kernel
   grubby --default-index
-  grubby --set-default=/boot/vmlinuz-5.4.234-1.el8.elrepo.x86_64
+  grubby --set-default=/boot/vmlinuz-5.4.257-1.el8.elrepo.x86_64
 ```
+WARNING the '/data' drive is a zfs drive that requires a zfs module. Only the kernel 257 has that module installed. If another kernel is booted without this module, the /data drive will not appear.
 ## Unsticking a node stuck in drain state
 If a node is stuck in drain state, but has otherwise recovered, it can be 'unstuck' with scontrol:
 ```
