@@ -98,3 +98,6 @@ Our node images are managed by warewulf. We are currently running Rocky Linux re
 We used to set cpupower with the following trick: You can use the command cpupower frequency-set -g <governor_name> to switch to a different governor. Replace <governor_name> with the desired governor (e.g., performance, powersave, ondemand. We used powersave to keep the temperatures down. Likely this is no longer needed.
 
 Hello, world!
+
+## GPU PXEBoot
+The GPU node is booted via pxeboot on old three-port ubiquity router. That router only has one job: providing the right host name for pulling the pxe image. The router username is emanuel. The configuration is part of the dhcp configuration, where the IP address is hardcoded. The router generates a .7 network and a .8 network, one on port 2 and the other one on port 3.
