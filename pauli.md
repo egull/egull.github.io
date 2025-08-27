@@ -101,3 +101,5 @@ Hello, world!
 
 ## GPU PXEBoot
 The GPU node is booted via pxeboot on old three-port ubiquity router. That router only has one job: providing the right host name for pulling the pxe image. The router username is emanuel. The configuration is part of the dhcp configuration, where the IP address is hardcoded. The router generates a .7 network and a .8 network, one on port 2 and the other one on port 3.
+
+A major confusion arose with the pxeboot config files. They are located in /srv/warewulf, which seems to be a non-standard location. In the cfg directory, every network mac address has boot info - GPU01 is at mac 50:eb:f6:80:ec:52.
