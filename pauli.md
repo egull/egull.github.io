@@ -102,4 +102,4 @@ Hello, world!
 ## GPU PXEBoot
 The GPU node is booted via pxeboot on old three-port ubiquity router. That router only has one job: providing the right host name for pulling the pxe image. The router username is emanuel. The configuration is part of the dhcp configuration, where the IP address is hardcoded. The router generates a .7 network and a .8 network, one on port 2 and the other one on port 3.
 
-tftp then loads a pxeboot image from /var/lib/tftpboot/debug, currently it's called ipxe_GPU_v2.efi. This image is built in build/ipxe with command make bin-x86_64-efi/ipxe.efi EMBED=script_no_iface.ipxe and then manually copied to the tftpboot directory.
+tftp then loads a pxeboot image from /var/lib/tftpboot/debug, currently it's called ipxe_GPU_v2.efi. This image is built in build/ipxe with command make bin-x86_64-efi/ipxe.efi EMBED=script.ipxe and then manually copied to the tftpboot directory.
