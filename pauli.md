@@ -105,3 +105,16 @@ The GPU node is booted via pxeboot on old three-port ubiquity router. That route
 tftp then loads a pxeboot image from /var/lib/tftpboot/debug, currently it's called ipxe_GPU_v2.efi. This image is built in build/ipxe with command make bin-x86_64-efi/ipxe.efi EMBED=script.ipxe and then manually copied to the tftpboot directory.
 
 The warewulf image itself needs to route traffic from master to the GPU node. This is done via ipip, with tunnel interfaces both on Pauli master and on GPU01. The GPU tunnel configuration is provisioned via warewulf and routes 192.168.* over to pauli master. The master tunnel config routes the .10 network back to the GPU01.
+
+## Second GPU box
+We have the following MAC addresses. Internal RJ45:
+```
+ Intel(R) Ethernet Network Adapter X710-TL - BC:FC:E7:71:B2:0D
+ Intel(R) Ethernet Network Adapter X710-TL - BC:FC:E7:71:B2:0E
+```
+Exernal SFP+ PCIe Card: 
+```
+ Intel(R) Ethernet Converged Network Adapter X710 - F8:F2:1E:85:75:30
+ Intel(R) Ethernet Converged Network Adapter X710 - F8:F2:1E:85:75:31
+```
+ 
