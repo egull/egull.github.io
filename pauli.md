@@ -117,4 +117,5 @@ Exernal SFP+ PCIe Card:
  Intel(R) Ethernet Converged Network Adapter X710 - F8:F2:1E:85:75:30
  Intel(R) Ethernet Converged Network Adapter X710 - F8:F2:1E:85:75:31
 ```
+wwsh will boot up the warewulf shell. node print GPU02-ctl will give the info stored, which was set with commands such as node set GPU02-ctl --netdev=eth3 --netmask=255.255.255.0 --hwaddr=F8:F2:1E:85:75:31.
  
