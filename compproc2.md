@@ -11,3 +11,5 @@ We need four items to launch a procurement call:
 + Specifications. Those specifications have the requirements that the offers of point 1 fulfill. They have to be written without explicit reference to any vendor (e.g. Dell or Intel). However, implicit references to vendors (such as W880 or x710-da2) seem to be acceptable.
 
 With those documents, procurement may be approached and a competition launched.
+
+Companies procurement has approached in the past include Spinel, GigaMultimedia, Format Sp z o.o, and Techmaq.
