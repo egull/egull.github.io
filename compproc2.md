@@ -6,8 +6,8 @@ We need four items to launch a procurement call:
   +  the price
   +  the warranty information
   +  a delivery timeline 
-+ A FUW physics document. Unclear what it is.
-+ An 'Analysis'. Unclear what it is.
++ A FUW physics 'wniosek'. Find it at [wniosek](https://www.fuw.edu.pl/tl_files/dokumenty/zamowienia/aktualnosci/Wniosek_pow_30_tys_EUR_2018.docx)
++ An 'Analiza potrzeb i wymagań'. This is a legally required public procurement document available in word format.
 + Specifications. Those specifications have the requirements that the offers of point 1 fulfill. They have to be written without explicit reference to any vendor (e.g. Dell or Intel). However, implicit references to vendors (such as W880 or x710-da2) seem to be acceptable.
 
 With those documents, procurement may be approached and a competition launched.
