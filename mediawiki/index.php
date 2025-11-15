@@ -1,4 +1,3 @@
----
-layout: forward
-target: https://alps.comp-phys.org
----
+<head>
+  <meta http-equiv="Refresh" content="0; URL=https://example.com/" />
+</head>
