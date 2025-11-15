@@ -1,4 +1,4 @@
-<?php
-header("Location: https://alps.comp-phys.org");
-die();
-?>
+---
+layout: forward
+target: https://alps.comp-phys.org
+---
