@@ -3,6 +3,11 @@ plugins:
  - jekyll-remote-theme
  - jekyll-include-cache
 
+titles_from_headings:
+  enabled:     false
+  strip_title: true
+  collections: true 
+  
 google_analytics: G-5VZDLTCMDW
 
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
