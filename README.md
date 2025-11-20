@@ -1,30 +1,26 @@
 # Gull group at the University of Warsaw
-As of summer 2025, the Gull group will have openings at the Physics Department of the University of Warsaw as a part of the ERC Advanced grant Quantum Algorithms. **Openings are available for postdocs, PhD students, and master students** on research topics in condensed matter theory and high-performance computing, including the development of field-theoretic methods for realistic correlated electron systems and their application to systems of interest. A wide range of topics is available. Previous work (see below) provides a general overview of the research areas.
+The Computational Quantum Many-Body Theory group has several openings at the Physics Department of the University of Warsaw as a part of the ERC Advanced grant Quantum Algorithms. **Openings are available for postdocs, PhD students, and master students** on research topics in condensed matter theory and high-performance computing, including the development of field-theoretic methods for realistic correlated electron systems and their application to systems of interest. A wide range of topics is available. Previous work (see below) provides a general overview of the research areas.
 The Gull group will maintain an affiliation with the [University of Michigan](https://sites.lsa.umich.edu/gull-lab/).
 
 # Available positions
 ## Postdoc positions
-Postdocs are required to have a PhD at the time of their employment. Areas include computational and/or analytical condensed matter theory, applied mathematics, quantum chemistry, and/or high-performance computing. Experience with modern analytic or numerical methods in quantum theory is desired. Experience with numerical methods in physics and a solid foundation in code development is especially welcome.
+The Gull group has several postdoc positions available. Due to the extensive paperwork required by the funding agencies and by local employers, prospective candidates are asked to contact emanuel.gull@gmail.com as early as possible to express interest.
 
-Interested parties should contact emanuel.gull@gmail.com for information.
+Postdocs are required to have a PhD at the time of their employment. Areas include computational and/or analytical condensed matter theory, applied mathematics, quantum chemistry, and/or high-performance computing. Experience with modern analytic or numerical methods in quantum theory is desired. Experience with numerical methods in physics and a solid foundation in code development is especially welcome. Interested parties should contact emanuel.gull@gmail.com for information.
 
-To apply, send your application including a cover letter, curriculum vitae, list of publications, statement of re​‐
-search interests, and the three most rele​vant publi​cations in a single PDF file. Please also have two reference letters sent to this email.
+Formal applications will need to respond to an official job posting on euraxess. These positions are advertised on a rolling basis. If you are interested in a position but none is currently advertised please reach out.
 
-For full consideration please ensure that all materials are **submitted by 5 Aug 2025**. Evaluations will continue on a rolling basis until all positions are filled. 
-
-Note that postdoc positions will be advertised in a staggered fashion, one to two positions at a time. The official ads are now online at the following link:
-
-```
-EURAXESS
-https://euraxess.ec.europa.eu/jobs/347874
-```
+## Master and Bachelor students
+Several topics for master and bachelor theses at the University of Warsaw are available. Candidates are encouraged to contact emanuel.gull@gmail.com for information. International candidates are welcome to explore options via Erasmus and other exchange programs.
 
 ## PhD positions
-Several positions for PhD candidates are available. Candidates are expected to apply to the Graduate School at the University of Warsaw. Please contact emanuel.gull@gmail.com for information and help with the application procedure.
+Several positions for PhD candidates are available. Candidates are expected to become part of the Graduate School at the University of Warsaw. Please contact emanuel.gull@gmail.com for information and help with the application procedure. Detailed information can be found [at the physics department](https://www.fuw.edu.pl/doctoral-studies.html) and [at the doctoral school](https://szkolydoktorskie.uw.edu.pl/en/sdnsip/enrolment/). In the past, the timeline for applications was as follows:
 
-## Master positions
-Several topics for master theses are available. Candidates are encouraged to contact emanuel.gull@gmail.com for information.
+1. Application to the Doctoral School: Middle of April
+2. Recommendation letters: Until beginning of June
+3. Interview and entrance exam: Middle of June to middle of August
+4. Admission decisions: Early August
+5. Start of graduate school: Late September
 
 # Related Work and References
 Note that this subset of relevant publications is quickly outdated. For a more recent list of published work and preprints see the [Google Scholar](https://scholar.google.com/citations?user=Ow86MM0AAAAJ&hl=en) profile.
