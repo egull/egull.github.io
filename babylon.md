@@ -12,3 +12,5 @@
    3. Contact WhyNotTravel at [email](mailto:uw@whynottravel.pl) for a quote and ensure the prices are similar
    4. Fill in the ticket requisition form at https://www.fuw.edu.pl/dokumenty-i-formularze.html using the WhyNotTravel booking reference
    5. Get the ticket requisition form signed. Once signed, order the ticket.
+
+4. ]External visitor Procedures](visitors.md) are here
