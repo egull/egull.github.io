@@ -4,6 +4,7 @@ https://visitors.uw.edu.pl/en-gb/
 
 Following the rather silly instructions here:
 
+~~~ 
 The guest should register the arrival via the web page:
 https://visitors.uw.edu.pl/en-gb/
 Please fill only fields which are required.
@@ -22,7 +23,7 @@ https://visitors.uw.edu.pl/en-gb/offer/REJESTRACJA-2022/registration/
 13. Faculty of Physics - Scientific research
 
   and then click "SIGN UP", …and fill Question set.
-
+~~~ 
 2. Have the visitor provide all documentation needed for the WhyNotTravel Wniosek, which one can get from [here](https://www.fuw.edu.pl/dokumenty-i-formularze.html), direct link [here](https://www.fuw.edu.pl/tl_files/dokumenty/wyjazdy/2023-12-18_Zlecenie-zakupu-biletu-UW.docx)
 
 4. Ask secretaries to provide Wniosek for invitations and hotels given that the visitor is in the UW system. Fill in visitor Wniosek given the dates provided on WhyNotTravel wniosek.
