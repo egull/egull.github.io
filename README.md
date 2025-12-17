@@ -4,6 +4,8 @@ The Gull group will maintain an affiliation with the [University of Michigan](ht
 
 # Available positions
 ## Postdoc positions
+***We expect the next postdoc ad to go online on January 15. If January 15 has passed and the ad is not up please contact emanuel.gull@gmail.com***
+
 The Gull group has several postdoc positions available. Due to the extensive paperwork required by the funding agencies and by local employers, prospective candidates are asked to contact emanuel.gull@gmail.com as early as possible to express interest.
 
 Postdocs are required to have a PhD at the time of their employment. Areas include computational and/or analytical condensed matter theory, applied mathematics, quantum chemistry, and/or high-performance computing. Experience with modern analytic or numerical methods in quantum theory is desired. Experience with numerical methods in physics and a solid foundation in code development is especially welcome. Interested parties should contact emanuel.gull@gmail.com for information.
@@ -14,6 +16,7 @@ Formal applications will need to respond to an official job posting on euraxess.
 Several topics for master and bachelor theses at the University of Warsaw are available. Candidates are encouraged to contact emanuel.gull@gmail.com for information. International candidates are welcome to explore options via Erasmus and other exchange programs.
 
 ## PhD positions
+
 Several positions for PhD candidates are available. Candidates are expected to become part of the Graduate School at the University of Warsaw. Please contact emanuel.gull@gmail.com for information and help with the application procedure. Detailed information can be found [at the physics department](https://www.fuw.edu.pl/doctoral-studies.html) and [at the doctoral school](https://szkolydoktorskie.uw.edu.pl/en/sdnsip/enrolment/). In the past, the timeline for applications was as follows:
 
 1. Application to the Doctoral School: Middle of April
