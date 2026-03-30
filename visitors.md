@@ -33,3 +33,8 @@ https://visitors.uw.edu.pl/en-gb/offer/REJESTRACJA-2022/registration/
 5. Cycle back to WhyNotTravel after WhyNotTravel Wniosek has been signed to order ticket
 
 6. Have secretaries order hotel for the period indicated on Wniosek. CAUTION make sure EU regulations are satisfied regarding hotel alternatives.
+
+
+
+Accommodations in the dorms are given [here](https://welcome.uw.edu.pl/before-you-arrive/accomodation/).
+The contact info to Sokrates is [rezerwacja@adm.uw.edu.pl](rezerwacja@adm.uw.edu.pl).
