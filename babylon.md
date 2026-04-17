@@ -18,5 +18,6 @@
    Krakowskie Przedmieście 26/28
    00-927 Warszawa, Poland
    NIP PL 535-001-12-66
+   The form has been updated, it is now NationalDelegationForm.doc and needs to be filled in electronically.
 
 4. [External visitor Procedures](visitors.md) are here
