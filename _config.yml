@@ -1,6 +1,16 @@
 #remote_theme: mmistakes/minimal-mistakes@4.27.3
 remote_theme: jekyll/minima
 
+title: Gull Group
+description: Computational Quantum Many-Body Theory — University of Warsaw
+
+header_pages:
+  - research.md
+  - people.md
+  - publications.md
+  - software.md
+  - positions.md
+
 plugins:
  - jekyll-remote-theme
  - jekyll-include-cache
@@ -8,5 +18,5 @@ plugins:
 titles_from_headings:
   enabled:     false
   strip_title: true
-  collections: true 
+  collections: true
 google_analytics: G-5VZDLTCMDW
