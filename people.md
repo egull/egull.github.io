@@ -36,26 +36,26 @@ permalink: /people/
 
 | Name | Role | Current position |
 |---|---|---|
-| [Andrey Antipov](https://scholar.google.com/citations?user=2_uk9XYAAAAJ) | Postdoc (Michigan) | Microsoft Quantum |
-| [Thomas Blommel](https://scholar.google.com/citations?user=yRv0A8MAAAAJ) | PhD (Michigan) | Postdoc, UCSB |
+| [Andrey Antipov](https://scholar.google.com/citations?user=2_uk9XYAAAAJ) | Postdoc (Michigan) | [Microsoft Quantum](https://www.microsoft.com/en-us/research/people/anantipo/) |
+| [Thomas Blommel](https://scholar.google.com/citations?user=yRv0A8MAAAAJ) | PhD (Michigan) | [Postdoc, UCSB](https://www.chem.ucsb.edu/people/thomas-blommel) |
 | Ahai Chen | Postdoc (Michigan) | |
-| [Xi Chen](https://scholar.google.com/citations?user=pov1wWoAAAAJ) | PhD (Michigan) | — [Two-particle Response Functions in Strongly Correlated Electron Systems](https://hdl.handle.net/2027.42/138575) |
+| [Xi Chen](https://scholar.google.com/citations?user=pov1wWoAAAAJ) | PhD (Michigan) | [Research Scientist, Flatiron Institute (CCQ)](https://www.simonsfoundation.org/people/ashley-xi-chen/) — [Two-particle Response Functions in Strongly Correlated Electron Systems](https://hdl.handle.net/2027.42/138575) |
 | Qiaoyuan Dong | PhD (Michigan) | — [Non-Equilibrium Dynamical Mean Field Theory with Quantum Monte Carlo](https://hdl.handle.net/2027.42/138490) |
 | [Xinyang Dong](https://scholar.google.com/citations?user=l9bLHZ0AAAAJ) | Postdoc (Michigan) | Institute of Physics, Chinese Academy of Sciences |
-| [André Erpenbeck](https://scholar.google.com/citations?user=YC2Y5zUAAAAJ) | Postdoc (Michigan) | Assistant Professor, University of Georgia |
+| [André Erpenbeck](https://scholar.google.com/citations?user=YC2Y5zUAAAAJ) | Postdoc (Michigan) | [Assistant Professor, University of Georgia](https://www.physast.uga.edu/directory/people/andre-erpenbeck) |
 | Jiani Fei | Undergraduate (Michigan) | |
 | Qiang Han | Undergraduate (Michigan) | |
 | [Sergei Iskakov](https://scholar.google.com/citations?user=NZ93EwYAAAAJ) | Staff Scientist (Michigan) | |
 | Joe Kleinhenz | PhD (Michigan) | Prescient Design, Genentech — [Nonequilibrium Dynamics of Strongly Correlated Systems](https://deepblue.lib.umich.edu/handle/2027.42/169814) |
-| [Igor Krivenko](https://scholar.google.com/citations?user=nZuRQs4AAAAJ) | Postdoc (Michigan) | Universität Hamburg |
-| [James P.F. LeBlanc](https://scholar.google.com/citations?user=rIvvsYsAAAAJ) | Postdoc (Michigan, 2014–2016) | Associate Professor, Memorial University of Newfoundland |
-| [Ryan Levy](https://scholar.google.com/citations?user=19Pq2ogAAAAJ) | Undergraduate (Michigan) | PsiQuantum |
+| [Igor Krivenko](https://scholar.google.com/citations?user=nZuRQs4AAAAJ) | Postdoc (Michigan) | [Universität Hamburg](https://www.physik.uni-hamburg.de/en/th1/personen/lichtenstein-alexander/krivenko-igor.html) |
+| [James P.F. LeBlanc](https://scholar.google.com/citations?user=rIvvsYsAAAAJ) | Postdoc (Michigan, 2014–2016) | [Associate Professor, Memorial University of Newfoundland](https://www.mun.ca/physics/our-people/faculty/dr-james-leblanc/) |
+| [Ryan Levy](https://scholar.google.com/citations?user=19Pq2ogAAAAJ) | Undergraduate (Michigan) | [PsiQuantum](https://www.ryanlevy.science/) |
 | Jia Li | PhD (Michigan) | — [Diagrammatic Methods for Strongly-Correlated Electrons in Realistic Systems](https://hdl.handle.net/2027.42/169762) |
-| [Shaozhi Li](https://scholar.google.com/citations?user=swLkVP8AAAAJ) | Postdoc (Michigan) | Associate Professor, Northeastern University (China) |
+| [Shaozhi Li](https://scholar.google.com/citations?user=swLkVP8AAAAJ) | Postdoc (Michigan) | [Associate Professor, Northeastern University, China](https://quantumligroup.github.io/) |
 | [Wei-Ting Lin](https://scholar.google.com/citations?user=_P3D8YkAAAAJ) | Postdoc (Michigan) | Louisiana State University |
 | Joe Paki | PhD (Michigan) | — [Quantum Monte Carlo Methods and Extensions for the 2D Hubbard Model](https://deepblue.lib.umich.edu/handle/2027.42/151444) |
 | Linsey Rodenbach | Undergraduate (Michigan) | |
-| [Hanna Terletska](https://scholar.google.com/citations?user=VneirgMAAAAJ) | Postdoc (Michigan, 2015–2017) | Associate Professor, Middle Tennessee State University |
-| [Markus Wallerberger](https://scholar.google.com/citations?user=ELn6YlsAAAAJ) | Postdoc (Michigan) | Senior Researcher and Lecturer, TU Wien |
-| [Chia-Nan Yeh](https://scholar.google.com/citations?user=NEaEcmcAAAAJ) | Postdoc (Michigan) | Research Scientist, Flatiron Institute (CCQ) |
+| [Hanna Terletska](https://scholar.google.com/citations?user=VneirgMAAAAJ) | Postdoc (Michigan, 2015–2017) | [Associate Professor, Middle Tennessee State University](https://w1.mtsu.edu/faculty/hanna-terletska) |
+| [Markus Wallerberger](https://scholar.google.com/citations?user=ELn6YlsAAAAJ) | Postdoc (Michigan) | [Senior Researcher and Lecturer, TU Wien](https://wallerberger.at/) |
+| [Chia-Nan Yeh](https://scholar.google.com/citations?user=NEaEcmcAAAAJ) | Postdoc (Michigan) | [Research Scientist, Flatiron Institute (CCQ)](https://www.simonsfoundation.org/people/chia-nan-yeh/) |
 | Runxue Yu | PhD (Michigan) | — [Self-Consistent Ab Initio Embedding Results for Real Materials](https://deepblue.lib.umich.edu/handle/2027.42/193311) |
