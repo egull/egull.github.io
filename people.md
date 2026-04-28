@@ -52,7 +52,7 @@ permalink: /people/
 | [Ryan Levy](https://scholar.google.com/citations?user=19Pq2ogAAAAJ) | Undergraduate (Michigan) | PsiQuantum |
 | Jia Li | PhD (Michigan) | — [Diagrammatic Methods for Strongly-Correlated Electrons in Realistic Systems](https://hdl.handle.net/2027.42/169762) |
 | Shaozhi Li | Postdoc (Michigan) | |
-| Yen Ting Lin | Postdoc (Michigan) | |
+| [Wei-Ting Lin](https://scholar.google.com/citations?user=_P3D8YkAAAAJ) | Postdoc (Michigan) | Louisiana State University |
 | Joe Paki | PhD (Michigan) | — [Quantum Monte Carlo Methods and Extensions for the 2D Hubbard Model](https://deepblue.lib.umich.edu/handle/2027.42/151444) |
 | Linsey Rodenbach | Undergraduate (Michigan) | |
 | [Hanna Terletska](https://scholar.google.com/citations?user=VneirgMAAAAJ) | Postdoc (Michigan, 2015–2017) | Associate Professor, Middle Tennessee State University |
