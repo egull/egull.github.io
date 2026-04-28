@@ -56,6 +56,6 @@ permalink: /people/
 | Joe Paki | PhD (Michigan) | — [Quantum Monte Carlo Methods and Extensions for the 2D Hubbard Model](https://deepblue.lib.umich.edu/handle/2027.42/151444) |
 | Linsey Rodenbach | Undergraduate (Michigan) | |
 | [Hanna Terletska](https://scholar.google.com/citations?user=VneirgMAAAAJ) | Postdoc (Michigan, 2015–2017) | Associate Professor, Middle Tennessee State University |
-| [Markus Wallerberger](https://scholar.google.com/citations?user=ELn6YlsAAAAJ) | Postdoc (Michigan) | Senior Researcher, TU Wien |
+| [Markus Wallerberger](https://scholar.google.com/citations?user=ELn6YlsAAAAJ) | Postdoc (Michigan) | Senior Researcher and Lecturer, TU Wien |
 | [Chia-Nan Yeh](https://scholar.google.com/citations?user=NEaEcmcAAAAJ) | Postdoc (Michigan) | Research Scientist, Flatiron Institute (CCQ) |
 | Runxue Yu | PhD (Michigan) | — [Self-Consistent Ab Initio Embedding Results for Real Materials](https://deepblue.lib.umich.edu/handle/2027.42/193311) |
