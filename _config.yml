@@ -11,6 +11,9 @@ header_pages:
   - software.md
   - positions.md
 
+minima:
+  hide_site_feed_link: true
+
 plugins:
  - jekyll-remote-theme
  - jekyll-include-cache
