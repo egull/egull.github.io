@@ -28,7 +28,7 @@ permalink: /people/
 
 ## Staff Scientists
 
-**[Gaurav Harsha](https://scholar.google.com/citations?user=4zxluS4AAAAJ)** (University of Michigan, Zgid group)
+**[Gaurav Harsha](https://scholar.google.com/citations?user=4zxluS4AAAAJ)** ([homepage](https://gauravharsha.github.io/), University of Michigan, Zgid group)
 
 ---
 
