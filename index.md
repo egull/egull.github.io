@@ -8,6 +8,8 @@ The Gull group works on computational quantum many-body theory at the Faculty of
 
 The group maintains an affiliation with the [University of Michigan](https://sites.lsa.umich.edu/gull-lab/).
 
+We have open positions for postdocs and PhD students. See the [Positions](/positions/) page for details, or contact [emanuel.gull@gmail.com](mailto:emanuel.gull@gmail.com) directly.
+
 ---
 
 ## Research Highlights
