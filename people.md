@@ -18,7 +18,7 @@ permalink: /people/
 
 ## PhD Students
 
-**[Lei Zhang](https://lzphy.github.io/)** (University of Michigan)
+**[Lei Zhang](https://scholar.google.com/citations?user=znwC5ycAAAAJ)** ([homepage](https://lzphy.github.io/), University of Michigan)
 
 **[Yang Yu](https://scholar.google.com/citations?user=D3cwIa8AAAAJ)** (University of Michigan)
 
