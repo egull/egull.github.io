@@ -20,7 +20,7 @@ permalink: /people/
 
 **[Lei Zhang](https://scholar.google.com/citations?user=znwC5ycAAAAJ)** ([homepage](https://lzphy.github.io/), University of Michigan)
 
-**[Yang Yu](https://scholar.google.com/citations?user=D3cwIa8AAAAJ)** (University of Michigan)
+**[Yang Yu](https://scholar.google.com/citations?user=fjJ3INIAAAAJ)** (University of Michigan)
 
 **Agnieszka Jażdżewska** (University of Warsaw)
 
