@@ -51,7 +51,7 @@ permalink: /people/
 | [James P.F. LeBlanc](https://scholar.google.com/citations?user=rIvvsYsAAAAJ) | Postdoc (Michigan, 2014–2016) | Associate Professor, Memorial University of Newfoundland |
 | [Ryan Levy](https://scholar.google.com/citations?user=19Pq2ogAAAAJ) | Undergraduate (Michigan) | PsiQuantum |
 | Jia Li | PhD (Michigan) | — [Diagrammatic Methods for Strongly-Correlated Electrons in Realistic Systems](https://hdl.handle.net/2027.42/169762) |
-| [Shaozhi Li](https://scholar.google.com/citations?user=swLkVP8AAAAJ) | Postdoc (Michigan) | |
+| [Shaozhi Li](https://scholar.google.com/citations?user=swLkVP8AAAAJ) | Postdoc (Michigan) | Associate Professor, Northeastern University (China) |
 | [Wei-Ting Lin](https://scholar.google.com/citations?user=_P3D8YkAAAAJ) | Postdoc (Michigan) | Louisiana State University |
 | Joe Paki | PhD (Michigan) | — [Quantum Monte Carlo Methods and Extensions for the 2D Hubbard Model](https://deepblue.lib.umich.edu/handle/2027.42/151444) |
 | Linsey Rodenbach | Undergraduate (Michigan) | |
