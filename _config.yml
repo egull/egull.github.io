@@ -9,6 +9,7 @@ header_pages:
   - people.md
   - publications.md
   - software.md
+  - outreach.md
   - positions.md
 
 minima:
