@@ -55,7 +55,7 @@ permalink: /people/
 | [Shaozhi Li](https://scholar.google.com/citations?user=swLkVP8AAAAJ) | Postdoc (Michigan) | [Associate Professor, Northeastern University, China](https://quantumligroup.github.io/) |
 | [Wei-Ting Lin](https://scholar.google.com/citations?user=_P3D8YkAAAAJ) | Postdoc (Michigan) | Louisiana State University |
 | Joe Paki | PhD (Michigan) | — [Quantum Monte Carlo Methods and Extensions for the 2D Hubbard Model](https://deepblue.lib.umich.edu/handle/2027.42/151444) |
-| Linsey Rodenbach | Undergraduate (Michigan) | |
+| [Linsey K. Rodenbach](https://scholar.google.com/citations?user=qtnR-2oAAAAJ) | Undergraduate (Michigan) | Nvidia |
 | [Hanna Terletska](https://scholar.google.com/citations?user=VneirgMAAAAJ) | Postdoc (Michigan, 2015–2017) | [Associate Professor, Middle Tennessee State University](https://w1.mtsu.edu/faculty/hanna-terletska) |
 | [Markus Wallerberger](https://scholar.google.com/citations?user=ELn6YlsAAAAJ) | Postdoc (Michigan) | [Senior Researcher and Lecturer, TU Wien](https://wallerberger.at/) |
 | [Chia-Nan Yeh](https://scholar.google.com/citations?user=NEaEcmcAAAAJ) | Postdoc (Michigan) | [Research Scientist, Flatiron Institute (CCQ)](https://www.simonsfoundation.org/people/chia-nan-yeh/) |
