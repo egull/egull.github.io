@@ -26,7 +26,7 @@ We have open positions for postdocs and PhD students. See the [Positions](/posit
 
 ---
 
-## News
+## Recent Publications and Preprints
 
 ### Recent Publications
 
