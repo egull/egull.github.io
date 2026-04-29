@@ -47,7 +47,7 @@ permalink: /people/
 | Jiani Fei | Undergraduate (Michigan) | [Stanford University](https://physics.stanford.edu/people/jiani-fei) — [A Probe into Propagators](https://deepblue.lib.umich.edu/handle/2027.42/167885) |
 | [Qiang Han](https://scholar.google.com/citations?user=OMoxVzsAAAAJ) | Undergraduate (Columbia) | |
 | [Sergei Iskakov](https://scholar.google.com/citations?user=NZ93EwYAAAAJ) | Staff Scientist (Michigan) | |
-| Joe Kleinhenz | PhD (Michigan) | Prescient Design, Genentech — [Nonequilibrium Dynamics of Strongly Correlated Systems](https://deepblue.lib.umich.edu/handle/2027.42/169814) |
+| [Joe (Joseph) Kleinhenz](https://scholar.google.com/citations?user=dhbTENMAAAAJ) | PhD (Michigan) | Prescient Design, Genentech — [Nonequilibrium Dynamics of Strongly Correlated Systems](https://deepblue.lib.umich.edu/handle/2027.42/169814) |
 | [Igor Krivenko](https://scholar.google.com/citations?user=nZuRQs4AAAAJ) | Postdoc (Michigan) | [Universität Hamburg](https://www.physik.uni-hamburg.de/en/th1/personen/lichtenstein-alexander/krivenko-igor.html) |
 | [James P.F. LeBlanc](https://scholar.google.com/citations?user=rIvvsYsAAAAJ) | Postdoc (Michigan, 2014–2016) | [Associate Professor, Memorial University of Newfoundland](https://www.mun.ca/physics/our-people/faculty/dr-james-leblanc/) |
 | [Ryan Levy](https://scholar.google.com/citations?user=19Pq2ogAAAAJ) | Undergraduate (Michigan) | [PsiQuantum](https://www.ryanlevy.science/) |
