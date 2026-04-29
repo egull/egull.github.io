@@ -45,7 +45,7 @@ permalink: /people/
 | [Selina Dirnboeck](https://scholar.google.com/citations?user=MQ3Ln7EAAAAJ) | Undergraduate (Michigan) | — [Self-consistent GW study of topological a-Sn and perovskite BiVO3](https://repositum.tuwien.at/handle/20.500.12708/225276) |
 | [André Erpenbeck](https://scholar.google.com/citations?user=YC2Y5zUAAAAJ) | Postdoc (Michigan) | [Assistant Professor, University of Georgia](https://www.physast.uga.edu/directory/people/andre-erpenbeck) |
 | Jiani Fei | Undergraduate (Michigan) | [Stanford University](https://physics.stanford.edu/people/jiani-fei) — [A Probe into Propagators](https://deepblue.lib.umich.edu/handle/2027.42/167885) |
-| Qiang Han | Undergraduate (Michigan) | |
+| [Qiang Han](https://scholar.google.com/citations?user=OMoxVzsAAAAJ) | Undergraduate (Columbia) | |
 | [Sergei Iskakov](https://scholar.google.com/citations?user=NZ93EwYAAAAJ) | Staff Scientist (Michigan) | |
 | Joe Kleinhenz | PhD (Michigan) | Prescient Design, Genentech — [Nonequilibrium Dynamics of Strongly Correlated Systems](https://deepblue.lib.umich.edu/handle/2027.42/169814) |
 | [Igor Krivenko](https://scholar.google.com/citations?user=nZuRQs4AAAAJ) | Postdoc (Michigan) | [Universität Hamburg](https://www.physik.uni-hamburg.de/en/th1/personen/lichtenstein-alexander/krivenko-igor.html) |
