@@ -19,6 +19,24 @@ Green is a C++ framework for self-consistent finite-temperature many-body pertur
 
 ---
 
+## H-NESSi
+
+H-NESSi (Hierarchical Non-Equilibrium Systems Simulation) is an open-source C++ package for simulating strongly correlated quantum systems far from equilibrium. It solves the Kadanoff-Baym equations using hierarchical low-rank compression of the two-time Green's function, combined with the discrete Lehmann representation and high-order time-stepping schemes. MPI and OpenMP parallelization enable large-scale simulations of driven superconductors, multiorbital systems, and the nonequilibrium Hubbard model that are otherwise computationally prohibitive.
+
+- Paper: [H-NESSi: The Hierarchical Non-Equilibrium Systems Simulation package](https://arxiv.org/abs/2604.05319) (2026, preprint)
+- Repository: [github.com/KBE-hodlr/H-NESSi](https://github.com/KBE-hodlr/H-NESSi)
+
+---
+
+## MiniPole
+
+MiniPole is a Python package implementing the matrix-valued Minimal Pole Method (MPM) for analytic continuation of Green's functions and self-energies. Given noisy Matsubara or real-frequency data, it recovers spectral functions via compact pole representations, with variants supporting discrete Lehmann representation coefficients and real-frequency fitting. It is available on PyPI and is part of the Green software ecosystem.
+
+- Papers: [Minimal pole representation and controlled analytic continuation of Matsubara response functions](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.035154) — *Phys. Rev. B* 110, 035154 (2024); [Minimal pole representation and analytic continuation of matrix-valued correlation functions](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.235131) — *Phys. Rev. B* 110, 235131 (2024)
+- Repository: [github.com/Green-Phys/MiniPole](https://github.com/Green-Phys/MiniPole)
+
+---
+
 ## ALPS
 
 [![ALPS logo](https://alps.comp-phys.org/logo/alps.png){: style="height:60px; float:right; margin:0 0 1em 1.5em;"}](https://alps.comp-phys.org)
