@@ -42,7 +42,7 @@ permalink: /people/
 | [Xi Chen](https://scholar.google.com/citations?user=pov1wWoAAAAJ) | PhD (Michigan) | [Research Scientist, Flatiron Institute (CCQ)](https://www.simonsfoundation.org/people/ashley-xi-chen/) — [Two-particle Response Functions in Strongly Correlated Electron Systems](https://hdl.handle.net/2027.42/138575) |
 | Qiaoyuan Dong | PhD (Michigan) | — [Non-Equilibrium Dynamical Mean Field Theory with Quantum Monte Carlo](https://hdl.handle.net/2027.42/138490) |
 | [Xinyang Dong](https://scholar.google.com/citations?user=l9bLHZ0AAAAJ) | PhD (Michigan) | [Senior Scientist, Institute of Physics, Chinese Academy of Sciences](https://iop.cas.cn/rcjy/yjdwfgj/?id=6813) — [Numerical Methods for Two-particle Fluctuations and Real-time Dynamics of Strongly Correlated Electron Systems](https://hdl.handle.net/2027.42/174272) |
-| [Selina Dirnboeck](https://scholar.google.com/citations?user=MQ3Ln7EAAAAJ) | Undergraduate (Michigan) | |
+| [Selina Dirnboeck](https://scholar.google.com/citations?user=MQ3Ln7EAAAAJ) | Undergraduate (Michigan) | — [Self-consistent GW study of topological a-Sn and perovskite BiVO3](https://repositum.tuwien.at/handle/20.500.12708/225276) |
 | [André Erpenbeck](https://scholar.google.com/citations?user=YC2Y5zUAAAAJ) | Postdoc (Michigan) | [Assistant Professor, University of Georgia](https://www.physast.uga.edu/directory/people/andre-erpenbeck) |
 | Jiani Fei | Undergraduate (Michigan) | |
 | Qiang Han | Undergraduate (Michigan) | |
