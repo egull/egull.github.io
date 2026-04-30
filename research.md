@@ -42,7 +42,7 @@ Green's functions encode the full many-body physics of a quantum system and sati
 
 ## Quantum Computing
 
-Quantum computers offer the potential to simulate quantum many-body systems beyond the reach of classical algorithms. We develop algorithms at the interface of classical and quantum computing, including methods that use quantum hardware to solve impurity problems and approaches that combine quantum circuit ansätze with classical diagrammatic techniques. A particular focus is on understanding when and why quantum algorithms offer an advantage over state-of-the-art classical methods.
+Whether quantum computers will outperform classical methods for quantum many-body simulation remains an open question. We develop algorithms at the interface of classical and quantum computing, including methods that use quantum hardware to solve impurity problems and approaches that combine quantum circuit ansätze with classical diagrammatic techniques. A central focus is on rigorously understanding when and whether quantum algorithms offer a genuine advantage over state-of-the-art classical methods.
 
 1. [Quantum-centric Supercomputing for Materials Science: A Perspective on Challenges and Future Directions](https://doi.org/10.1016/j.future.2024.04.060) — *Future Generation Computer Systems* 160 (2024)
 2. [Denoising and Extension of Response Functions in the Time Domain](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.160403) — *Phys. Rev. Lett.* 132, 160403 (2024)
