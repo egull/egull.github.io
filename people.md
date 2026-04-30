@@ -48,6 +48,7 @@ permalink: /people/
 | [André Erpenbeck](https://scholar.google.com/citations?user=YC2Y5zUAAAAJ) | Postdoc (Michigan) | [Assistant Professor, University of Georgia](https://www.physast.uga.edu/directory/people/andre-erpenbeck) |
 | Jiani Fei | Undergraduate (Michigan) | [Stanford University](https://physics.stanford.edu/people/jiani-fei) — [A Probe into Propagators](https://deepblue.lib.umich.edu/handle/2027.42/167885) |
 | [Qiang Han](https://scholar.google.com/citations?user=OMoxVzsAAAAJ) | Undergraduate (Columbia) | |
+| [Masaru Hitomi](https://scholar.google.com/citations?user=wOO2ew0AAAAJ) | Sabbatical Visitor (Warsaw) | [Tohoku University](https://researchmap.jp/MasaruHitomi?lang=en) |
 | [Sergei Iskakov](https://scholar.google.com/citations?user=NZ93EwYAAAAJ) | Staff Scientist (Michigan) | |
 | [Joe (Joseph) Kleinhenz](https://scholar.google.com/citations?user=dhbTENMAAAAJ) | PhD (Michigan) | Prescient Design, Genentech — [Nonequilibrium Dynamics of Strongly Correlated Systems](https://deepblue.lib.umich.edu/handle/2027.42/169814) |
 | [Igor Krivenko](https://scholar.google.com/citations?user=nZuRQs4AAAAJ) | Postdoc (Michigan) | [Universität Hamburg](https://www.physik.uni-hamburg.de/en/th1/personen/lichtenstein-alexander/krivenko-igor.html) |
