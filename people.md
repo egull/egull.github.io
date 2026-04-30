@@ -43,6 +43,7 @@ permalink: /people/
 | Qiaoyuan Dong | PhD (Michigan) | — [Non-Equilibrium Dynamical Mean Field Theory with Quantum Monte Carlo](https://hdl.handle.net/2027.42/138490) |
 | [Xinyang Dong](https://scholar.google.com/citations?user=l9bLHZ0AAAAJ) | PhD (Michigan) | [Senior Scientist, Institute of Physics, Chinese Academy of Sciences](https://iop.cas.cn/rcjy/yjdwfgj/?id=6813) — [Numerical Methods for Two-particle Fluctuations and Real-time Dynamics of Strongly Correlated Electron Systems](https://hdl.handle.net/2027.42/174272) |
 | [Selina Dirnböck](https://scholar.google.com/citations?user=MQ3Ln7EAAAAJ) | Undergraduate (TU Wien) | — [Self-consistent GW study of topological a-Sn and perovskite BiVO3](https://repositum.tuwien.at/handle/20.500.12708/225276) |
+| Eitan Eidelstein | Sabbatical Visitor (Michigan) | NRCN and Tel Aviv University |
 | [André Erpenbeck](https://scholar.google.com/citations?user=YC2Y5zUAAAAJ) | Postdoc (Michigan) | [Assistant Professor, University of Georgia](https://www.physast.uga.edu/directory/people/andre-erpenbeck) |
 | Jiani Fei | Undergraduate (Michigan) | [Stanford University](https://physics.stanford.edu/people/jiani-fei) — [A Probe into Propagators](https://deepblue.lib.umich.edu/handle/2027.42/167885) |
 | [Qiang Han](https://scholar.google.com/citations?user=OMoxVzsAAAAJ) | Undergraduate (Columbia) | |
