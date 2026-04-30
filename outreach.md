@@ -12,6 +12,14 @@ The Gull group is a partner in a $3.9M ARPA-E award led by Alice & Bob, together
 
 ---
 
+## IEEE Spectrum: Quantum Computers Hunt Rare-Earth-Free Magnets
+
+*IEEE Spectrum* covers the challenge of designing rare-earth-free permanent magnets — and why quantum computing may be the key to cracking it. Over 67,000 magnetic compounds exist, yet none surpass the performance of neodymium-iron-boron magnets, whose supply chain is concentrated in China. The Alice & Bob–led collaboration, which includes the Gull group, is using quantum computers to navigate this combinatorially vast search space, exploiting superposition and entanglement to simulate electron behavior across crystal lattices that classical computers cannot handle at scale.
+
+[Read the full article](https://spectrum.ieee.org/rare-earth-free-magnets)
+
+---
+
 ## ERC Advanced Grant: Quantum Algorithms
 
 
