@@ -57,7 +57,7 @@ permalink: /people/
 | Jia Li | PhD (Michigan) | — [Diagrammatic Methods for Strongly-Correlated Electrons in Realistic Systems](https://hdl.handle.net/2027.42/169762) |
 | [Shaozhi Li](https://scholar.google.com/citations?user=swLkVP8AAAAJ) | Postdoc (Michigan) | [Associate Professor, Northeastern University, China](https://quantumligroup.github.io/) |
 | [Wei-Ting Lin](https://scholar.google.com/citations?user=_P3D8YkAAAAJ) | Postdoc (Michigan) | Louisiana State University |
-| Joe Paki | PhD (Michigan) | — [Quantum Monte Carlo Methods and Extensions for the 2D Hubbard Model](https://deepblue.lib.umich.edu/handle/2027.42/151444) |
+| Joe Paki | PhD (Michigan) | [Associate Adjunct Professor, Michigan Tech](https://www.mtu.edu/mtri/about/staff/retired/paki/) — [Quantum Monte Carlo Methods and Extensions for the 2D Hubbard Model](https://deepblue.lib.umich.edu/handle/2027.42/151444) |
 | [Linsey K. Rodenbach](https://scholar.google.com/citations?user=qtnR-2oAAAAJ) | Undergraduate (Michigan), PhD (Stanford) | Nvidia |
 | [Hanna Terletska](https://scholar.google.com/citations?user=VneirgMAAAAJ) | Postdoc (Michigan, 2015–2017) | [Associate Professor, Middle Tennessee State University](https://w1.mtsu.edu/faculty/hanna-terletska) |
 | [Markus Wallerberger](https://scholar.google.com/citations?user=ELn6YlsAAAAJ) | Postdoc (Michigan) | [Senior Researcher and Lecturer, TU Wien](https://wallerberger.at/) |
