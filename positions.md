@@ -18,14 +18,18 @@ To apply or express interest, contact [emanuel.gull@gmail.com](mailto:emanuel.gu
 
 ## PhD Positions
 
-PhD positions are fully funded through the ERC Advanced grant *Quantum Algorithms*. PhD candidates join the [Graduate School at the University of Warsaw](https://szkolydoktorskie.uw.edu.pl/en/sdnsip/enrolment/). Further information is available at the [physics department doctoral studies page](https://www.fuw.edu.pl/doctoral-studies.html).
+PhD positions are fully funded through the ERC Advanced grant *Quantum Algorithms*. PhD candidates join the [Graduate School at the University of Warsaw](https://szkolydoktorskie.uw.edu.pl/en/sdnsip/enrolment/). The current recruitment cycle is described at the [2026–2027 recruitment page](https://szkolydoktorskie.uw.edu.pl/en/recruitment-2026-2027/). Further information is available at the [physics department doctoral studies page](https://www.fuw.edu.pl/doctoral-studies.html).
 
-Typical application timeline:
-1. Application to the Doctoral School: mid-April
-2. Recommendation letters: early June
-3. Interview and entrance exam: June–August
-4. Admission decisions: early August
-5. Start: late September
+Note that candidates must contact a supervisor before applying and submit a supervisor's declaration with their application.
+
+Application timeline for 2026–2027:
+1. Application submission: April 14 – May 21, 2026
+2. Recommendation letters: by May 29, 2026
+3. Interview schedule published: by June 17, 2026
+4. Qualification interviews: June 22 – July 21, 2026
+5. Ranking list announced: by July 31, 2026
+6. Document submission by qualified candidates: August 4 – September 23, 2026
+7. Final acceptance list: by September 30, 2026
 
 ---
 
