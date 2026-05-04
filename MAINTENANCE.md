@@ -58,6 +58,8 @@ People get promoted or change institutions. Search name + institution to find up
 
 Positions are funded by the ERC Advanced grant *Quantum Algorithms*. Update if the grant ends or positions are no longer available.
 
+**PhD timeline** — the numbered timeline is specific to the 2026–2027 cycle and must be updated each year. Check https://szkolydoktorskie.uw.edu.pl/en/ for the new cycle's dates (typically published in early spring) and update both the dates and the recruitment page link.
+
 ---
 
 ### 5. Publications (`publications.md`, `research.md`)
