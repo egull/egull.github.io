@@ -47,6 +47,7 @@ permalink: /people/
 | Eitan Eidelstein | Sabbatical Visitor (Michigan) | NRCN and Tel Aviv University |
 | [André Erpenbeck](https://scholar.google.com/citations?user=YC2Y5zUAAAAJ) | Postdoc (Michigan) | [Assistant Professor, University of Georgia](https://www.physast.uga.edu/directory/people/andre-erpenbeck) |
 | Jiani Fei | Undergraduate (Michigan) | [Stanford University](https://physics.stanford.edu/people/jiani-fei) — [A Probe into Propagators](https://deepblue.lib.umich.edu/handle/2027.42/167885) |
+| [Alexander Gaenko](https://scholar.google.com/citations?user=8zKjqHIAAAAJ) | Staff Scientist (Michigan) | Software Engineer |
 | [Qiang Han](https://scholar.google.com/citations?user=OMoxVzsAAAAJ) | Undergraduate (Columbia) | |
 | [Masaru Hitomi](https://scholar.google.com/citations?user=wOO2ew0AAAAJ) | Sabbatical Visitor (Warsaw) | [Tohoku University](https://researchmap.jp/MasaruHitomi?lang=en) |
 | [Sergei Iskakov](https://scholar.google.com/citations?user=NZ93EwYAAAAJ) | Staff Scientist (Michigan) | |
