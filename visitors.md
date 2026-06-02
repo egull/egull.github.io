@@ -38,3 +38,76 @@ https://visitors.uw.edu.pl/en-gb/offer/REJESTRACJA-2022/registration/
 
 Accommodations in the dorms are given [here](https://welcome.uw.edu.pl/before-you-arrive/accomodation/).
 The contact info to Sokrates is [rezerwacja@adm.uw.edu.pl](rezerwacja@adm.uw.edu.pl).
+
+
+There is another IFT visiting procedures file, with the following content:
+
+IFT GUESTS (DOMESTIC AND INTERNATIONAL)
+
+I. Preliminary Arrangements
+The inviting person is required to agree with the guest on:
+arrival and departure dates,
+scope of funded benefits (e.g. per diem, accommodation, flights).
+
+The inviting person provides the IFT Secretariat via e-mail with:
+full name (as in ID document),
+academic title,
+affiliation,
+gender and email address,
+dates of stay,
+scope of benefits,
+source of funding.
+
+
+
+II. Guest Registration
+Domestic guest – registration via a standard guest form.
+International guest – self-registration in the IRGZ system: visitors.uw.edu.pl
+
+https://visitors.uw.edu.pl/en-gb/ (English version of the self-registration Instruction)
+The form must include:
+data consistent with the identity document,
+dates of stay,
+required formal information.
+
+
+
+III. Verification and Approval
+The IFT Secretariat verifies the submitted data.
+In case of discrepancies: data is corrected or rejected, the guest is asked to re-register.
+After approval, the form is printed from the IRGZ system and signed by the inviting person.
+
+
+IV. Detailed Arrangements and Documentation
+Specification of the scope of benefits (hotel, per diem, flights).
+For stays longer than one day:
+a scan of the identity document is required,
+a request for automatic per diem payment is submitted.
+
+
+
+V. Provision of Benefits
+Domestic guests: settlement via inter-institutional reimbursement.
+International guests - available benefits include:
+per diem,
+accommodation,
+flight tickets,
+automatic per diem payment,
+room at FUW.
+
+Ticket purchase:
+exclusively via TravelBank,
+based on a request form including contact and travel details,
+requires approval of the price by the inviting person.
+
+
+
+VI. Processing by the IFT Secretariat
+The IFT Secretariat:
+handles registration and documentation,
+organizes reservations,
+ticket purchases
+submits payment data,
+processes invoices and financial settlements,
+
+monitors the use of the IFT funds.
