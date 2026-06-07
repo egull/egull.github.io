@@ -34,7 +34,8 @@ We have open positions for postdocs and PhD students. See the [Positions](/posit
 2. [Inchworm tensor train hybridization expansion quantum impurity solver](https://arxiv.org/abs/2505.16117) — *Phys. Rev. B* 112, 085120 (2025)
 3. [Minimal pole representation for spectral functions](https://arxiv.org/abs/2504.01163) — *J. Chem. Phys.* 162, 214111 (2025)
 4. [Pairing boost from enhanced spin-fermion coupling in the pseudogap regime](https://arxiv.org/abs/2410.01705) — *Phys. Rev. B* 112, L041105 (2025)
-5. [Minimal pole representation and analytic continuation of matrix-valued correlation functions](https://arxiv.org/abs/2410.14000) — *Phys. Rev. B* 110, 235131 (2024)
+5. [Chirped amplitude mode in photo-excited superconductors](https://arxiv.org/abs/2403.01589) — *Phys. Rev. B* 111, 094502 (2025)
+6. [Minimal pole representation and analytic continuation of matrix-valued correlation functions](https://arxiv.org/abs/2410.14000) — *Phys. Rev. B* 110, 235131 (2024)
 
 ### Recent Preprints
 

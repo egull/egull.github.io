@@ -37,7 +37,8 @@ For a complete and up-to-date list see the [Google Scholar](https://scholar.goog
 ## Application Projects
 
 1. [Large exciton binding energy in a bulk van der Waals magnet from quasi-1D electronic localization](https://www.nature.com/articles/s41467-025-56457-x) — *Nature Commun.* (2025)
-2. [Ab initio self-energy embedding for the photoemission spectra of NiO and MnO](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.085105) — *Phys. Rev. B* 102, 085105 (2020)
+2. [Chirped amplitude mode in photo-excited superconductors](https://arxiv.org/abs/2403.01589) — *Phys. Rev. B* 111, 094502 (2025)
+3. [Ab initio self-energy embedding for the photoemission spectra of NiO and MnO](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.085105) — *Phys. Rev. B* 102, 085105 (2020)
 
 ---
 

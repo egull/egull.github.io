@@ -18,10 +18,6 @@ permalink: /people/
 
 ## PhD Students
 
-**[Lei Zhang](https://scholar.google.com/citations?user=znwC5ycAAAAJ)** ([homepage](https://lzphy.github.io/), University of Michigan)
-
-**[Yang Yu](https://scholar.google.com/citations?user=fjJ3INIAAAAJ)** (University of Michigan)
-
 **Agnieszka Jażdżewska** (University of Warsaw)
 
 ---
@@ -36,6 +32,8 @@ permalink: /people/
 
 | Name | Role | Current position |
 |---|---|---|
+| [Lei Zhang](https://scholar.google.com/citations?user=znwC5ycAAAAJ) | PhD (Michigan) | [Devereaux group, Stanford](https://profiles.stanford.edu/thomas-devereaux) |
+| [Yang Yu](https://scholar.google.com/citations?user=fjJ3INIAAAAJ) | PhD (Michigan) | [Held group, TU Wien](https://www.tuwien.at/phy/ifp/theory) |
 | [Andrey Antipov](https://scholar.google.com/citations?user=2_uk9XYAAAAJ) | Postdoc (Michigan) | [Microsoft Quantum](https://www.microsoft.com/en-us/research/people/anantipo/) |
 | [Thomas Blommel](https://scholar.google.com/citations?user=yRv0A8MAAAAJ) | PhD (Michigan) | [Postdoc, UCSB](https://www.chem.ucsb.edu/people/thomas-blommel) |
 | Ahai Chen | Postdoc (Michigan) | |

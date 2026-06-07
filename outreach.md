@@ -4,6 +4,20 @@ title: News and Outreach
 permalink: /outreach/
 ---
 
+## Congratulations to Lei Zhang and Yang Yu
+
+Congratulations to **[Lei Zhang](https://scholar.google.com/citations?user=znwC5ycAAAAJ)** and **[Yang Yu](https://scholar.google.com/citations?user=fjJ3INIAAAAJ)** on successfully completing their PhDs at the University of Michigan. Lei Zhang goes on to the group of [Tom Devereaux](https://profiles.stanford.edu/thomas-devereaux) at Stanford, and Yang Yu joins the group of [Karsten Held](https://www.tuwien.at/phy/ifp/theory) in Vienna. We wish them both all the best.
+
+---
+
+## NSF POSE Phase II Award: ALPS Ecosystem
+
+The NSF has awarded a Phase II POSE (Pathways to Enable Open-Source Ecosystems) grant to a collaboration led by Vito Scarola (Virginia Polytechnic Institute and State University) to expand and sustain the open-source [ALPS](https://alps.comp-phys.org) (Algorithms and Libraries for Physics Simulations) ecosystem. The $1,490,730 award runs from June 2026 through May 2028 and will transition ALPS from a single-group effort into a broad collaborative community, adding governance structures, training programs, and improved documentation. The Gull group is a partner in this initiative and will contribute to both [ALPS](https://alps.comp-phys.org) and [ALPSCore](https://alpscore.org).
+
+[NSF Award #2550169](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2550169)
+
+---
+
 ## ARPA-E Award: Rare-Earth-Free Quantum Magnetism
 
 The Gull group is a partner in a $3.9M ARPA-E award led by Alice & Bob, together with Los Alamos National Laboratory and GE Vernova's Advanced Research accelerator. The three-year project aims to use quantum computing to discover high-performance permanent magnets that do not rely on rare-earth elements — addressing a critical vulnerability in the supply chains for clean energy and industrial technologies. The Gull group contributes classical many-body algorithms designed to work alongside quantum algorithms, bridging the two approaches for realistic materials calculations.
