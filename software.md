@@ -47,6 +47,8 @@ ALPS (Algorithms and Libraries for Physics Simulations) is a broad open-source s
 - Website: [alps.comp-phys.org](https://alps.comp-phys.org/)
 - Repository: [github.com/ALPSim/ALPS](https://github.com/ALPSim/ALPS)
 
+ALPS development is organized via [Gull Consulting L.L.C](/llc/).
+
 ---
 
 ## ALPSCore

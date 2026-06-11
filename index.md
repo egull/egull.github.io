@@ -4,12 +4,6 @@ title: Home
 permalink: /
 ---
 
-## LLC
-
-**[Gull Consulting L.L.C](/llc/)** — Michigan domestic LLC (Entity #900076345). Contact: [GullConsultingLLC@gmail.com](mailto:GullConsultingLLC@gmail.com) · +1 734 864 2894.
-
----
-
 The Gull group works on computational quantum many-body theory at the Faculty of Physics, University of Warsaw, as part of the ERC Advanced grant *Quantum Algorithms*. We develop and apply field-theoretic methods, quantum Monte Carlo algorithms, and analytic continuation techniques for realistic correlated electron systems.
 
 The group maintains an affiliation with the [University of Michigan](https://sites.lsa.umich.edu/gull-lab/).
