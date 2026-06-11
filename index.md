@@ -39,9 +39,10 @@ We have open positions for postdocs and PhD students. See the [Positions](/posit
 
 ### Recent Preprints
 
-1. [Validity and Limits of Low Order Hybridization Expansion Approaches for Multi-Orbital Systems](https://arxiv.org/abs/2605.02228) (May 4, 2026)
-2. [Evolution of the Saddle Point in Antimony Telluride Homologous Superlattices](https://arxiv.org/abs/2604.21037) (April 22, 2026)
-3. [H-NESSi: The Hierarchical Non-Equilibrium Systems Simulation package](https://arxiv.org/abs/2604.05319) (April 7, 2026)
-4. [Multi-orbital dynamical mean-field theory with a complex-time solver](https://arxiv.org/abs/2512.23237) (December 29, 2025)
-5. [Global approximations to correlation functions of strongly interacting quantum field theories](https://arxiv.org/abs/2512.18532) (December 20, 2025)
-6. [Discovering topological phases in gray-Tin](https://arxiv.org/abs/2511.22740) (November 27, 2025)
+1. [Hybrid Hamiltonian-diagrammatic quantum impurity solver](https://arxiv.org/abs/2606.11095) (June 9, 2026)
+2. [Validity and Limits of Low Order Hybridization Expansion Approaches for Multi-Orbital Systems](https://arxiv.org/abs/2605.02228) (May 4, 2026)
+3. [Evolution of the Saddle Point in Antimony Telluride Homologous Superlattices](https://arxiv.org/abs/2604.21037) (April 22, 2026)
+4. [H-NESSi: The Hierarchical Non-Equilibrium Systems Simulation package](https://arxiv.org/abs/2604.05319) (April 7, 2026)
+5. [Multi-orbital dynamical mean-field theory with a complex-time solver](https://arxiv.org/abs/2512.23237) (December 29, 2025)
+6. [Global approximations to correlation functions of strongly interacting quantum field theories](https://arxiv.org/abs/2512.18532) (December 20, 2025)
+7. [Discovering topological phases in gray-Tin](https://arxiv.org/abs/2511.22740) (November 27, 2025)

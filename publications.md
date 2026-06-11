@@ -38,7 +38,9 @@ For a complete and up-to-date list see the [Google Scholar](https://scholar.goog
 
 1. [Large exciton binding energy in a bulk van der Waals magnet from quasi-1D electronic localization](https://www.nature.com/articles/s41467-025-56457-x) — *Nature Commun.* (2025)
 2. [Chirped amplitude mode in photo-excited superconductors](https://arxiv.org/abs/2403.01589) — *Phys. Rev. B* 111, 094502 (2025)
-3. [Ab initio self-energy embedding for the photoemission spectra of NiO and MnO](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.085105) — *Phys. Rev. B* 102, 085105 (2020)
+3. [Unambiguous fluctuation decomposition of the self-energy: pseudogap physics beyond spin fluctuations](https://arxiv.org/abs/2401.08543) — *Phys. Rev. Lett.* 132, 216501 (2024)
+4. [Stark–many-body localization in interacting infinite-dimensional systems](https://arxiv.org/abs/2311.08893) — *Phys. Rev. Lett.* 132, 166301 (2024)
+5. [Ab initio self-energy embedding for the photoemission spectra of NiO and MnO](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.085105) — *Phys. Rev. B* 102, 085105 (2020)
 
 ---
 
