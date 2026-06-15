@@ -46,4 +46,5 @@ For a complete and up-to-date list see the [Google Scholar](https://scholar.goog
 
 ## Open Source Software
 
-1. [Green/WeakCoupling: Implementation of fully self-consistent finite-temperature many-body perturbation theory](https://www.sciencedirect.com/science/article/pii/S0010465524003035) — *Comput. Phys. Commun.* (2024)
+1. [H-NESSi: The Hierarchical Non-Equilibrium Systems Simulation package](https://doi.org/10.1016/j.cpc.2026.110256) — *Comput. Phys. Commun.* (2026)
+2. [Green/WeakCoupling: Implementation of fully self-consistent finite-temperature many-body perturbation theory](https://www.sciencedirect.com/science/article/pii/S0010465524003035) — *Comput. Phys. Commun.* (2024)

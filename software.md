@@ -24,7 +24,7 @@ Green is a C++ framework for self-consistent finite-temperature many-body pertur
 
 H-NESSi (Hierarchical Non-Equilibrium Systems Simulation) is an open-source C++ package for simulating strongly correlated quantum systems far from equilibrium. It solves the Kadanoff-Baym equations using hierarchical low-rank compression of the two-time Green's function, combined with the discrete Lehmann representation and high-order time-stepping schemes. MPI and OpenMP parallelization enable large-scale simulations of driven superconductors, multiorbital systems, and the nonequilibrium Hubbard model that are otherwise computationally prohibitive.
 
-- Paper: [H-NESSi: The Hierarchical Non-Equilibrium Systems Simulation package](https://arxiv.org/abs/2604.05319) (2026, preprint)
+- Paper: [H-NESSi: The Hierarchical Non-Equilibrium Systems Simulation package](https://doi.org/10.1016/j.cpc.2026.110256) — *Comput. Phys. Commun.* (2026)
 - Repository: [github.com/KBE-hodlr/H-NESSi](https://github.com/KBE-hodlr/H-NESSi)
 
 ---
