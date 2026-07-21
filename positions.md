@@ -34,18 +34,18 @@ Applications should include a curriculum vitae, a publication list, a brief stat
 
 ## PhD Positions
 
-PhD positions are fully funded through the ERC Advanced grant *Quantum Algorithms*. PhD candidates join the [Graduate School at the University of Warsaw](https://szkolydoktorskie.uw.edu.pl/en/sdnsip/enrolment/). The current recruitment cycle is described at the [2026–2027 recruitment page](https://szkolydoktorskie.uw.edu.pl/en/recruitment-2026-2027/). Further information is available at the [physics department doctoral studies page](https://www.fuw.edu.pl/doctoral-studies.html).
+PhD positions are fully funded through the ERC Advanced grant *Quantum Algorithms*. PhD candidates join the [Graduate School at the University of Warsaw](https://szkolydoktorskie.uw.edu.pl/en/sdnsip/enrolment/). The 2027–2028 recruitment cycle has not yet been published; check the enrolment page above for the current announcement closer to the date. Further information is available at the [physics department doctoral studies page](https://www.fuw.edu.pl/doctoral-studies.html).
 
 Note that candidates must contact a supervisor before applying and submit a supervisor's declaration with their application.
 
-Application timeline for 2026–2027:
-1. Application submission: April 14 – May 21, 2026
-2. Recommendation letters: by May 29, 2026
-3. Interview schedule published: by June 17, 2026
-4. Qualification interviews: June 22 – July 21, 2026
-5. Ranking list announced: by July 31, 2026
-6. Document submission by qualified candidates: August 4 – September 23, 2026
-7. Final acceptance list: by September 30, 2026
+Tentative application timeline for 2027–2028 (estimated from the prior cycle; to be confirmed once officially announced):
+1. Application submission: April 14 – May 21, 2027
+2. Recommendation letters: by May 29, 2027
+3. Interview schedule published: by June 17, 2027
+4. Qualification interviews: June 22 – July 21, 2027
+5. Ranking list announced: by July 31, 2027
+6. Document submission by qualified candidates: August 4 – September 23, 2027
+7. Final acceptance list: by September 30, 2027
 
 ---
 
