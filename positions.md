@@ -14,6 +14,22 @@ Postdoctoral positions are available for candidates with a PhD in condensed matt
 
 To apply or express interest, contact [emanuel.gull@gmail.com](mailto:emanuel.gull@gmail.com) with a CV and a brief description of your research interests.
 
+### Postdoctoral Position in Quantum Computing for Quantum Many-Body Theory (University of Michigan)
+
+The Department of Physics at the University of Michigan invites applications for a postdoctoral research position at the interface of quantum computing, quantum many-body theory, and materials theory. The successful candidate will develop algorithms that enable quantum computers to solve quantum many-body problems arising in materials theory, with a particular focus on quantum impurity solvers for quantum embedding methods such as dynamical mean-field theory (DMFT).
+
+The position is supported by the ARPA-E project *Rare-Earth-Free Quantum Magnetism*, which aims to accelerate the discovery and design of next-generation permanent magnetic materials using quantum computing. The project combines advances in quantum computing with state-of-the-art electronic structure and many-body methods to address one of the central challenges in computational materials design. It brings together experts in condensed matter physics, quantum algorithms, quantum hardware, and materials science from academia, national laboratories, and industry.
+
+The successful candidate will develop algorithms that integrate classical electronic structure methods with quantum computing approaches for quantum impurity problems. The research will involve computational quantum many-body theory, electronic structure calculations, and the development of efficient classical-quantum workflows. Close collaboration with quantum computing hardware and algorithm experts will be an integral part of the project.
+
+The position will be based at the University of Michigan under the scientific supervision of Emanuel Gull, Gaurav Harsha, and Kai Sun. The successful candidate will collaborate closely with project partners at Alice & Bob, Los Alamos National Laboratory (LANL), General Electric, and the University of Warsaw. The project is embedded in the University's vibrant research environment, including the Michigan Institute for Computational Discovery and Engineering (MICDE), the Michigan Quantum Research Institute (MQRI), and the Department of Physics. Excellent high-performance computing resources are available through the University of Michigan and national computing facilities.
+
+Applicants should hold a Ph.D. in physics, theoretical chemistry, materials science, or a closely related field by the start of the appointment. Candidates with expertise in one or more of the following areas are encouraged to apply: quantum many-body theory, materials theory, strongly correlated electron systems, quantum embedding methods, high-performance scientific computing, or quantum computing. Prior experience in quantum computing is welcome but is not required.
+
+The initial appointment is for one year, with the possibility of renewal for up to three years, contingent upon satisfactory performance and continued funding.
+
+Applications should include a curriculum vitae, a publication list, a brief statement of research interests, and the names and contact information of three references. Review of applications will begin immediately and continue until the position is filled. Applications and inquiries should be sent to [emanuel.gull@gmail.com](mailto:emanuel.gull@gmail.com).
+
 ---
 
 ## PhD Positions
