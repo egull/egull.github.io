@@ -32,17 +32,18 @@ We have open positions for postdocs and PhD students. See the [Positions](/posit
 
 1. [Compact representation and long-time extrapolation of real-time data for quantum systems using the ESPRIT algorithm](https://arxiv.org/abs/2506.13760) — *Phys. Rev. B* 113, 115129 (2026)
 2. [H-NESSi: The Hierarchical Non-Equilibrium Systems Simulation package](https://doi.org/10.1016/j.cpc.2026.110256) — *Comput. Phys. Commun.* (2026)
-3. [Inchworm tensor train hybridization expansion quantum impurity solver](https://arxiv.org/abs/2505.16117) — *Phys. Rev. B* 112, 085120 (2025)
-4. [Minimal pole representation for spectral functions](https://arxiv.org/abs/2504.01163) — *J. Chem. Phys.* 162, 214111 (2025)
-5. [Pairing boost from enhanced spin-fermion coupling in the pseudogap regime](https://arxiv.org/abs/2410.01705) — *Phys. Rev. B* 112, L041105 (2025)
-6. [Chirped amplitude mode in photo-excited superconductors](https://arxiv.org/abs/2403.01589) — *Phys. Rev. B* 111, 094502 (2025)
-7. [Minimal pole representation and analytic continuation of matrix-valued correlation functions](https://arxiv.org/abs/2410.14000) — *Phys. Rev. B* 110, 235131 (2024)
+3. [Multi-orbital dynamical mean-field theory with a complex-time solver](https://arxiv.org/abs/2512.23237) — *Phys. Rev. Research* 8, 023142 (2026)
+4. [Inchworm tensor train hybridization expansion quantum impurity solver](https://arxiv.org/abs/2505.16117) — *Phys. Rev. B* 112, 085120 (2025)
+5. [Minimal pole representation for spectral functions](https://arxiv.org/abs/2504.01163) — *J. Chem. Phys.* 162, 214111 (2025)
+6. [Pairing boost from enhanced spin-fermion coupling in the pseudogap regime](https://arxiv.org/abs/2410.01705) — *Phys. Rev. B* 112, L041105 (2025)
+7. [Chirped amplitude mode in photo-excited superconductors](https://arxiv.org/abs/2403.01589) — *Phys. Rev. B* 111, 094502 (2025)
+8. [Minimal pole representation and analytic continuation of matrix-valued correlation functions](https://arxiv.org/abs/2410.14000) — *Phys. Rev. B* 110, 235131 (2024)
 
 ### Recent Preprints
 
-1. [Hybrid Hamiltonian-diagrammatic quantum impurity solver](https://arxiv.org/abs/2606.11095) (June 9, 2026)
-2. [Validity and Limits of Low Order Hybridization Expansion Approaches for Multi-Orbital Systems](https://arxiv.org/abs/2605.02228) (May 4, 2026)
-3. [Evolution of the Saddle Point in Antimony Telluride Homologous Superlattices](https://arxiv.org/abs/2604.21037) (April 22, 2026)
-4. [Multi-orbital dynamical mean-field theory with a complex-time solver](https://arxiv.org/abs/2512.23237) (December 29, 2025)
+1. [Compact and Stable Representation of Real-Frequency Spectral Functions for Machine Learning](https://arxiv.org/abs/2607.11190) (July 13, 2026)
+2. [Hybrid Hamiltonian-diagrammatic quantum impurity solver](https://arxiv.org/abs/2606.11095) (June 9, 2026)
+3. [Validity and Limits of Low Order Hybridization Expansion Approaches for Multi-Orbital Systems](https://arxiv.org/abs/2605.02228) (May 4, 2026)
+4. [Evolution of the Saddle Point in Antimony Telluride Homologous Superlattices](https://arxiv.org/abs/2604.21037) (April 22, 2026)
 5. [Global approximations to correlation functions of strongly interacting quantum field theories](https://arxiv.org/abs/2512.18532) (December 20, 2025)
 6. [Discovering topological phases in gray-Tin](https://arxiv.org/abs/2511.22740) (November 27, 2025)
