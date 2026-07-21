@@ -14,6 +14,8 @@ permalink: /people/
 
 **[Rayan Farid](https://scholar.google.com/citations?user=lpb--t0AAAAJ)** (University of Warsaw)
 
+**[Aiman Al-Eryani](https://scholar.google.com/citations?user=0l5nZlkAAAAJ)** (University of Warsaw)
+
 ---
 
 ## PhD Students
