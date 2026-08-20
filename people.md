@@ -64,3 +64,8 @@ permalink: /people/
 | [Markus Wallerberger](https://scholar.google.com/citations?user=ELn6YlsAAAAJ) | Postdoc (Michigan) | [Senior Researcher and Lecturer, TU Wien](https://wallerberger.at/) |
 | [Chia-Nan Yeh](https://scholar.google.com/citations?user=NEaEcmcAAAAJ) | Postdoc (Michigan) | [Research Scientist, Flatiron Institute (CCQ)](https://www.simonsfoundation.org/people/chia-nan-yeh/) |
 | Runxue Yu | PhD (Michigan) | — [Self-Consistent Ab Initio Embedding Results for Real Materials](https://deepblue.lib.umich.edu/handle/2027.42/193311) |
+
+<figure style="margin: 2rem 0 0; text-align: center;">
+  <img src="{{ '/assets/images/warsaw-many-body-groups.png' | relative_url }}" alt="The Warsaw many-body theory groups of Zgid and Gull wearing party hats" style="width: 100%; height: auto;">
+  <figcaption style="margin-top: 0.75rem;"><em>The Warsaw many-body theory groups of Zgid and Gull (Zgid not on the picture). Recently, we introduced the rule that pushups are required whenever a code has a bug... 😂</em></figcaption>
+</figure>
