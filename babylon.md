@@ -23,3 +23,5 @@
 4. [External visitor Procedures](visitors.md) are here
 
 5. In fact there's an entire set of documents on internal procedures [here](https://docs.google.com/document/d/1fpZwWc46If3PQ9Ct_mGit5_gNYPveekrrKRbJlHy5xM/edit?pli=1&tab=t.0)
+
+6. Hotel procedures [are here](hotel.md)
