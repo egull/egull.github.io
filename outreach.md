@@ -4,6 +4,14 @@ title: News and Outreach
 permalink: /outreach/
 ---
 
+## GREEN Reaches Version 1.0.0
+
+The [Green](/software/#green) open source software framework for self-consistent finite-temperature many-body perturbation theory has reached its 1.0.0 release. Green implements the GW and GF2 approximations for molecules and periodic solids using Gaussian basis sets, with support for diagrammatic embedding methods, and is designed for high-performance computing environments targeting ab initio electronic structure of real materials.
+
+[Homepage](https://green-phys.org) · [GitHub repository](https://github.com/Green-Phys/green-mbpt)
+
+---
+
 ## Congratulations to Lei Zhang and Yang Yu
 
 Congratulations to **[Lei Zhang](https://scholar.google.com/citations?user=znwC5ycAAAAJ)** and **[Yang Yu](https://scholar.google.com/citations?user=fjJ3INIAAAAJ)** on successfully completing their PhDs at the University of Michigan. Lei Zhang goes on to the group of [Tom Devereaux](https://profiles.stanford.edu/thomas-devereaux) at Stanford, and Yang Yu joins the group of [Karsten Held](https://www.tuwien.at/phy/ifp/theory) in Vienna. We wish them both all the best.
