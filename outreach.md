@@ -4,6 +4,14 @@ title: News and Outreach
 permalink: /outreach/
 ---
 
+## ALPS Reaches Version 3.0.0
+
+The [ALPS](/software/#alps) (Algorithms and Libraries for Physics Simulations) project has released version 3.0.0, a major milestone that comes as the project transitions from a single-group effort into a broader collaborative ecosystem under the NSF POSE Phase II award. The release modernizes the project's build system and documentation, and lays the groundwork for the governance structures and community contributions planned over the course of the award. ALPS provides standardized, well-tested implementations of quantum Monte Carlo, exact diagonalization, DMRG, and DMFT algorithms for strongly correlated quantum lattice models.
+
+[Homepage](https://alps.comp-phys.org) · [GitHub repository](https://github.com/ALPSim/ALPS)
+
+---
+
 ## GREEN Reaches Version 1.0.0
 
 The [Green](/software/#green) open source software framework for self-consistent finite-temperature many-body perturbation theory has reached its 1.0.0 release. Green implements the GW and GF2 approximations for molecules and periodic solids using Gaussian basis sets, with support for diagrammatic embedding methods, and is designed for high-performance computing environments targeting ab initio electronic structure of real materials.
