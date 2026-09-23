@@ -41,9 +41,10 @@ We have open positions for postdocs and PhD students. See the [Positions](/posit
 
 ### Recent Preprints
 
-1. [Compact and Stable Representation of Real-Frequency Spectral Functions for Machine Learning](https://arxiv.org/abs/2607.11190) (July 13, 2026)
-2. [Hybrid Hamiltonian-diagrammatic quantum impurity solver](https://arxiv.org/abs/2606.11095) (June 9, 2026)
-3. [Validity and Limits of Low Order Hybridization Expansion Approaches for Multi-Orbital Systems](https://arxiv.org/abs/2605.02228) (May 4, 2026)
-4. [Evolution of the Saddle Point in Antimony Telluride Homologous Superlattices](https://arxiv.org/abs/2604.21037) (April 22, 2026)
-5. [Global approximations to correlation functions of strongly interacting quantum field theories](https://arxiv.org/abs/2512.18532) (December 20, 2025)
-6. [Discovering topological phases in gray-Tin](https://arxiv.org/abs/2511.22740) (November 27, 2025)
+1. [Real-Frequency Diagrammatics with Pole Representations](https://arxiv.org/abs/2609.26703) (September 22, 2026)
+2. [Compact and Stable Representation of Real-Frequency Spectral Functions for Machine Learning](https://arxiv.org/abs/2607.11190) (July 13, 2026)
+3. [Hybrid Hamiltonian-diagrammatic quantum impurity solver](https://arxiv.org/abs/2606.11095) (June 9, 2026)
+4. [Validity and Limits of Low Order Hybridization Expansion Approaches for Multi-Orbital Systems](https://arxiv.org/abs/2605.02228) (May 4, 2026)
+5. [Evolution of the Saddle Point in Antimony Telluride Homologous Superlattices](https://arxiv.org/abs/2604.21037) (April 22, 2026)
+6. [Global approximations to correlation functions of strongly interacting quantum field theories](https://arxiv.org/abs/2512.18532) (December 20, 2025)
+7. [Symmetry-resolved topology from interacting Green's functions](https://arxiv.org/abs/2511.22740) (November 27, 2025)
