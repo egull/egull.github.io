@@ -4,6 +4,14 @@ title: News and Outreach
 permalink: /outreach/
 ---
 
+## Gull named APS Fellow
+
+Emanuel Gull has been elected a Fellow of the American Physical Society, on the nomination of the APS Division of Computational Physics. The fellowship recognizes his development of numerical methods for the study of strongly correlated electron systems, including quantum impurity solvers, and their application to correlated materials. As announced by the Faculty of Physics of the University of Warsaw, Dominika Zgid was elected a Fellow in the same year, for fundamental contributions to accurate ab initio computational methods for many-body systems in molecules and solids. Both hold ERC Advanced Grants at the University of Warsaw.
+
+[Read the announcement (in Polish)](https://m.fuw.edu.pl/aktualnosci-all/news10440.html)
+
+---
+
 ## ALPS Reaches Version 3.0.0
 
 The [ALPS](/software/#alps) (Algorithms and Libraries for Physics Simulations) project has released version 3.0.0, a major milestone that comes as the project transitions from a single-group effort into a broader collaborative ecosystem under the NSF POSE Phase II award. The release modernizes the project's build system and documentation, and lays the groundwork for the governance structures and community contributions planned over the course of the award. ALPS provides standardized, well-tested implementations of quantum Monte Carlo, exact diagonalization, DMRG, and DMFT algorithms for strongly correlated quantum lattice models.
