@@ -30,6 +30,8 @@ Green's functions and self-energies in quantum many-body theory are smooth funct
 2. [Minimal pole representation and analytic continuation of matrix-valued correlation functions](https://doi.org/10.1103/PhysRevB.110.235131) — *Phys. Rev. B* 110, 235131 (2024)
 3. [Nevanlinna Analytical Continuation](https://doi.org/10.1103/PhysRevLett.126.056402) — *Phys. Rev. Lett.* 126, 056402 (2021)
 4. [Chebyshev polynomial representation of imaginary time response functions](https://doi.org/10.1103/PhysRevB.98.075127) — *Phys. Rev. B* 98, 075127 (2018)
+5. [Compact and Stable Representation of Real-Frequency Spectral Functions for Machine Learning](https://arxiv.org/abs/2607.11190) — arXiv:2607.11190 (2026)
+6. [Real-Frequency Diagrammatics with Pole Representations](https://arxiv.org/abs/2609.26703) — arXiv:2609.26703 (2026)
 
 ---
 
