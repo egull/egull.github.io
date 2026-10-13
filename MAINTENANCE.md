@@ -64,7 +64,7 @@ Positions are funded by the ERC Advanced grant *Quantum Algorithms*. Update if t
 
 ### 5. Publications (`publications.md`, `research.md`)
 
-Add new papers as they are published. Use journal DOI links for published papers; arXiv links for preprints.
+Add new papers as they are published. Use `https://doi.org/...` links for published papers (not publisher URLs); arXiv links for preprints.
 
 ---
 

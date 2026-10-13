@@ -30,14 +30,14 @@ We have open positions for postdocs and PhD students. See the [Positions](/posit
 
 ### Recent Publications
 
-1. [Compact representation and long-time extrapolation of real-time data for quantum systems using the ESPRIT algorithm](https://arxiv.org/abs/2506.13760) — *Phys. Rev. B* 113, 115129 (2026)
+1. [Compact representation and long-time extrapolation of real-time data for quantum systems using the ESPRIT algorithm](https://doi.org/10.1103/8vzv-y74m) — *Phys. Rev. B* 113, 115129 (2026)
 2. [H-NESSi: The Hierarchical Non-Equilibrium Systems Simulation package](https://doi.org/10.1016/j.cpc.2026.110256) — *Comput. Phys. Commun.* (2026)
-3. [Multi-orbital dynamical mean-field theory with a complex-time solver](https://arxiv.org/abs/2512.23237) — *Phys. Rev. Research* 8, 023142 (2026)
-4. [Inchworm tensor train hybridization expansion quantum impurity solver](https://arxiv.org/abs/2505.16117) — *Phys. Rev. B* 112, 085120 (2025)
-5. [Minimal pole representation for spectral functions](https://arxiv.org/abs/2504.01163) — *J. Chem. Phys.* 162, 214111 (2025)
-6. [Pairing boost from enhanced spin-fermion coupling in the pseudogap regime](https://arxiv.org/abs/2410.01705) — *Phys. Rev. B* 112, L041105 (2025)
-7. [Chirped amplitude mode in photo-excited superconductors](https://arxiv.org/abs/2403.01589) — *Phys. Rev. B* 111, 094502 (2025)
-8. [Minimal pole representation and analytic continuation of matrix-valued correlation functions](https://arxiv.org/abs/2410.14000) — *Phys. Rev. B* 110, 235131 (2024)
+3. [Multi-orbital dynamical mean-field theory with a complex-time solver](https://doi.org/10.1103/yqv4-4vjx) — *Phys. Rev. Research* 8, 023142 (2026)
+4. [Inchworm tensor train hybridization expansion quantum impurity solver](https://doi.org/10.1103/yt8p-vr1v) — *Phys. Rev. B* 112, 085120 (2025)
+5. [Minimal pole representation for spectral functions](https://doi.org/10.1063/5.0273763) — *J. Chem. Phys.* 162, 214111 (2025)
+6. [Pairing boost from enhanced spin-fermion coupling in the pseudogap regime](https://doi.org/10.1103/jbz7-wjtd) — *Phys. Rev. B* 112, L041105 (2025)
+7. [Chirped amplitude mode in photo-excited superconductors](https://doi.org/10.1103/PhysRevB.111.094502) — *Phys. Rev. B* 111, 094502 (2025)
+8. [Minimal pole representation and analytic continuation of matrix-valued correlation functions](https://doi.org/10.1103/PhysRevB.110.235131) — *Phys. Rev. B* 110, 235131 (2024)
 
 ### Recent Preprints
 
