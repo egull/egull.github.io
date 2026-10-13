@@ -31,7 +31,6 @@ Green's functions and self-energies in quantum many-body theory are smooth funct
 3. [Nevanlinna Analytical Continuation](https://doi.org/10.1103/PhysRevLett.126.056402) — *Phys. Rev. Lett.* 126, 056402 (2021)
 4. [Chebyshev polynomial representation of imaginary time response functions](https://doi.org/10.1103/PhysRevB.98.075127) — *Phys. Rev. B* 98, 075127 (2018)
 5. [Compact and Stable Representation of Real-Frequency Spectral Functions for Machine Learning](https://arxiv.org/abs/2607.11190) — arXiv:2607.11190 (2026)
-6. [Real-Frequency Diagrammatics with Pole Representations](https://arxiv.org/abs/2609.26703) — arXiv:2609.26703 (2026)
 
 ---
 
@@ -60,6 +59,7 @@ Ab initio simulations of real materials require treating both weak and strong el
 
 1. [Finite Temperature Quantum Embedding Theories for Correlated Systems](https://doi.org/10.1088/1367-2630/aa5d34) — *New J. Phys.* 19, 023047 (2017)
 2. [Green/WeakCoupling: Implementation of fully self-consistent finite-temperature many-body perturbation theory](https://doi.org/10.1016/j.cpc.2024.109380) — *Comput. Phys. Commun.* (2024)
+3. [Real-Frequency Diagrammatics with Pole Representations](https://arxiv.org/abs/2609.26703) — arXiv:2609.26703 (2026)
 
 ---
 

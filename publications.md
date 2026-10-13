@@ -20,10 +20,11 @@ For a complete and up-to-date list see the [Google Scholar](https://scholar.goog
 
 ## Realistic Electronic Structure Methods
 
-1. [Symmetry adaptation for self-consistent many-body calculations](https://doi.org/10.1016/j.cpc.2024.109401) — *Comput. Phys. Commun.* (2024)
-2. [Equivariant neural network for Green's functions of molecules and materials](https://doi.org/10.1103/PhysRevB.109.075112) — *Phys. Rev. B* 109, 075112 (2024)
-3. [Fully self-consistent finite-temperature GW in Gaussian Bloch orbitals for solids](https://doi.org/10.1103/PhysRevB.106.235104) — *Phys. Rev. B* 106, 235104 (2022)
-4. [Relativistic self-consistent GW: Exact two-component formalism with one-electron approximation for solids](https://doi.org/10.1103/PhysRevB.106.085121) — *Phys. Rev. B* 106, 085121 (2022)
+1. [Real-Frequency Diagrammatics with Pole Representations](https://arxiv.org/abs/2609.26703) — arXiv:2609.26703 (2026)
+2. [Symmetry adaptation for self-consistent many-body calculations](https://doi.org/10.1016/j.cpc.2024.109401) — *Comput. Phys. Commun.* (2024)
+3. [Equivariant neural network for Green's functions of molecules and materials](https://doi.org/10.1103/PhysRevB.109.075112) — *Phys. Rev. B* 109, 075112 (2024)
+4. [Fully self-consistent finite-temperature GW in Gaussian Bloch orbitals for solids](https://doi.org/10.1103/PhysRevB.106.235104) — *Phys. Rev. B* 106, 235104 (2022)
+5. [Relativistic self-consistent GW: Exact two-component formalism with one-electron approximation for solids](https://doi.org/10.1103/PhysRevB.106.085121) — *Phys. Rev. B* 106, 085121 (2022)
 
 ---
 
